@@ -48,7 +48,7 @@ Accessibility and onboarding edge cases only; almost never the right target for 
 
 ### B1 — broad international / ESL audience
 
-The level for "make it readable for non-native speakers." Short-to-medium sentences. Simple connectors (and, but, so, because, when). Common everyday vocabulary, used mostly literally. Avoid opaque phrasal verbs and all idiom. One idea per sentence; chain ideas with connectors rather than embedding them.
+The level for "make it readable for non-native speakers." Short-to-medium sentences. Simple connectors (and, but, so, because). Common everyday vocabulary, used mostly literally. Avoid opaque phrasal verbs and all idiom. One idea per sentence; chain ideas with connectors rather than embedding them.
 
 _Reads like:_ clear, direct, slightly more spelled-out than you'd write for peers — but not childish.
 
@@ -72,15 +72,15 @@ Archetype files carry native vocabulary lists, and some entries sit above a give
 
 Worked examples at a B1 ceiling (spread deliberately across the roster so no single archetype dominates):
 
-| Archetype | Native word (too high) | Wrong fix                             | Right fix (in-domain, in-level)            |
-| --------- | ---------------------- | ------------------------------------- | ------------------------------------------ |
-| Sage      | discern                | "spot the win" (Hero's domain)        | "tell apart", "notice the difference"      |
-| Sage      | nuance                 | "the vibe" (off-register)             | "the small differences", "the fine detail" |
-| Magician  | transmute, alchemy     | "fix" (flattens the magic)            | "turn X into Y", "change completely"       |
-| Rebel     | unleash                | "enable" (corporate, wrong archetype) | "set free", "let loose"                    |
-| Hero      | vanquish               | "deal with" (drains the courage)      | "beat", "defeat", "win against"            |
-| Ruler     | paramount              | "key" (weakens authority)             | "matters most", "comes first"              |
-| Creator   | meticulous             | "good" (loses the craft)              | "careful", "made with care"                |
+| Archetype | Native word (too high) | Wrong fix                                 | Right fix (in-domain, in-level)                |
+| --------- | ---------------------- | ----------------------------------------- | ---------------------------------------------- |
+| Sage      | discern                | "spot the win" (Hero's domain)            | "tell apart", "notice the difference"          |
+| Sage      | nuance                 | "the vibe" (off-register)                 | "the small differences", "the fine detail"     |
+| Magician  | alchemy, catalyze      | "fix" (flattens the magic)                | "turn X into Y", "spark the change"            |
+| Rebel     | overturn               | "adjust" (corporate, drains the defiance) | "throw out", "flip"                            |
+| Hero      | conquer                | "deal with" (drains the courage)          | "beat", "win against"                          |
+| Ruler     | mandate                | "key" (weakens authority)                 | "the rule everyone follows", "what's required" |
+| Creator   | purposeful             | "good" (loses the craft)                  | "made on purpose", "built with a clear aim"    |
 
 The test: read the swap back against the archetype's _energy_ line. If the swap suddenly sounds like a different archetype, you reached into the wrong domain — try again with a word from the one you're actually writing in.
 
@@ -88,7 +88,7 @@ The test: read the swap back against the archetype's _energy_ line. If the swap 
 
 Lowering the ceiling reduces vocabulary, not conviction. The EDGE operation asks for the most provocative _true_ statement; the truth is usually sharpest when plainest.
 
-- B1, full edge: "Most companies listen all the time. They hear almost nothing."
+- B1, full edge: "Most companies listen all the time, but they hear almost nothing."
 - C1, no more edge, just rarer: "Most organizations sustain a near-constant listening posture while remaining functionally deaf to what surfaces."
 
 Same idea. The first is more provocative _and_ more readable. When a low ceiling tempts you toward smooth, even, inoffensive copy, that is the ceiling being used as an excuse. Keep the edge; say it in short words.

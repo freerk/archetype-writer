@@ -108,9 +108,9 @@ This sets how hard the text is to read. It applies across all channels and arche
 
 ### The filter stack
 
-`[Archetype: how to think] + [Channel: where it lives] + [CEFR: the reader's ceiling] = output`
+`[Archetype: how to think] + [Channel: where it lives] + [Voice/brand guide: what not to say] + [CEFR: the reader's ceiling] = output`
 
-CEFR is applied **last, as a ceiling.** The archetype and channel shape the writing first; CEFR then caps how difficult any of it is allowed to get. It lowers difficulty; it never adds it.
+This is the layering rule from _Archetype layering_ above, completed with the channel and the reading-level ceiling. Apply in that order: archetype and channel shape the writing, the voice/brand guide filters wording, and CEFR is applied **last, as a ceiling** that caps how difficult any of it is allowed to get. It lowers difficulty; it never adds it.
 
 ### When CEFR conflicts with an archetype's native vocabulary
 
@@ -133,13 +133,13 @@ Example (one archetype, shown only to demonstrate the rule): a perception-domain
 
 ### Band guide
 
-| Level              | Reader                                             | Sentences                                          | Vocabulary                                      | Idiom & phrasal verbs                                           |
-| ------------------ | -------------------------------------------------- | -------------------------------------------------- | ----------------------------------------------- | --------------------------------------------------------------- |
-| **A2**             | Beginner; accessibility/onboarding edge cases only | Short, one clause                                  | Everyday, concrete                              | None                                                            |
-| **B1**             | Broad international / ESL audience                 | Short–medium, simple connectors (but, so, because) | Common, mostly literal                          | Avoid opaque phrasal verbs and idioms                           |
-| **B2** _(default)_ | Educated non-native professional                   | Medium, some subordination                         | Can carry abstraction; only common idioms       | Common, transparent idiom OK; avoid culture-specific references |
-| **C1**             | Near-native                                        | Longer, complex allowed                            | Nuance, figurative language, precise rare words | Idiom and phrasal verbs fine                                    |
-| **C2**             | Native / literary                                  | No ceiling                                         | Full range, wordplay, cultural reference        | No limit                                                        |
+| Level              | Reader                                             | Sentences                                               | Vocabulary                                      | Idiom & phrasal verbs                                           |
+| ------------------ | -------------------------------------------------- | ------------------------------------------------------- | ----------------------------------------------- | --------------------------------------------------------------- |
+| **A2**             | Beginner; accessibility/onboarding edge cases only | Short, one clause                                       | Everyday, concrete                              | None                                                            |
+| **B1**             | Broad international / ESL audience                 | Short–medium, simple connectors (and, but, so, because) | Common, mostly literal                          | Avoid opaque phrasal verbs and idioms                           |
+| **B2** _(default)_ | Educated non-native professional                   | Medium, some subordination                              | Can carry abstraction; only common idioms       | Common, transparent idiom OK; avoid culture-specific references |
+| **C1**             | Near-native                                        | Longer, complex allowed                                 | Nuance, figurative language, precise rare words | Idiom and phrasal verbs fine                                    |
+| **C2**             | Native / literary                                  | No ceiling                                              | Full range, wordplay, cultural reference        | No limit                                                        |
 
 ### Edge survives a low ceiling
 
