@@ -10,13 +10,17 @@ So a level is a property of the audience, not a style to imitate. "Write at B1" 
 
 CEFR officially defines _competences_, not word counts. The bands below turn those competences into concrete writing constraints. Treat them as operational rules of thumb, not a certified lexicon.
 
+## Any language, not just English
+
+The level applies to whatever language the prose is in. CEFR is a general framework for language proficiency, not an English-only scale, so "write at B1" means "a B1 reader of the target language glides through this." Every concrete example in this file (the word swaps, the phrasal verbs, the idioms, the before/after) is in English because that is the language these instructions are written in. Each one illustrates a mechanism that exists in every language: a rare word where a plain one exists, a construction a less-fluent reader cannot assemble from its parts, a culture-bound reference. When you write in another language, find that language's own version of the trap and apply the same fix. Where the target language has no official level wordlist, apply the band descriptors by judgement.
+
 ## Why complexity creeps in
 
 Two independent sources, and they need different defences.
 
 ### 1. Lexical complexity — the obvious kind
 
-A rarer or more abstract word stands in for a plain one. Usually easy to catch on a reread.
+A rarer or more abstract word stands in for a plain one. Usually easy to catch on a reread. The pairs below are English; the principle (a formal or rare word standing in for a plain everyday one) holds in every language.
 
 | Drifted              | Plain             |
 | -------------------- | ----------------- |
@@ -35,8 +39,8 @@ A rarer or more abstract word stands in for a plain one. Usually easy to catch o
 
 No single word is wrong, so a reread misses it. This is the source behind most "it slipped in again" moments. Four patterns to hunt:
 
-- **Opaque phrasal verbs.** A non-native reader knows "bank" and "on" but not _bank on_. Same for _iron out, chalk up to, gloss over, knuckle down, pan out, gloss over, square with, head off, round out._ Replace with a transparent verb: bank on → rely on / count on; iron out → fix; pan out → work; head off → prevent.
-- **Idioms and cultural references.** _The elephant in the room, move the needle, table stakes, ballpark, low-hanging fruit, boil the ocean, drink from the firehose, inside baseball, home run._ These carry zero meaning to someone who hasn't absorbed the culture. State the literal point instead.
+- **Opaque multi-word constructions.** A reader knows the parts but not the combined meaning. In English these are phrasal verbs: a reader knows "bank" and "on" but not _bank on_. Same for _iron out, chalk up to, gloss over, knuckle down, pan out, square with, head off, round out._ Replace with a transparent verb: bank on → rely on / count on; iron out → fix; pan out → work; head off → prevent. Every language has equivalents (separable verbs, set particle constructions, opaque compounds); find and replace them the same way.
+- **Idioms and cultural references.** In English: _the elephant in the room, move the needle, table stakes, ballpark, low-hanging fruit, boil the ocean, drink from the firehose, inside baseball, home run._ These carry zero meaning to someone who hasn't absorbed the culture, and every language has its own set. State the literal point instead, in whatever language you are writing.
 - **Stacked hedging.** _It might be worth perhaps considering whether it could make sense to…_ Each hedge adds a clause to parse. Pick one hedge or none.
 - **Deep subordination.** Sentences where the main verb arrives after two or three embedded clauses. Break into separate sentences below C1.
 
@@ -44,25 +48,25 @@ No single word is wrong, so a reread misses it. This is the source behind most "
 
 ### A2 — beginner
 
-Accessibility and onboarding edge cases only; almost never the right target for brand copy. One clause per sentence. Present and past simple. Everyday concrete nouns. No idiom, no phrasal verbs, no abstraction. If you are tempted to write brand copy at A2, the real need is probably B1.
+Accessibility and onboarding edge cases only; almost never the right target for brand copy. One clause per sentence. Present and past simple. Everyday concrete nouns. No idiom, no opaque constructions, no abstraction. If you are tempted to write brand copy at A2, the real need is probably B1.
 
-### B1 — broad international / ESL audience
+### B1 — broad international / second-language audience
 
-The level for "make it readable for non-native speakers." Short-to-medium sentences. Simple connectors (and, but, so, because). Common everyday vocabulary, used mostly literally. Avoid opaque phrasal verbs and all idiom. One idea per sentence; chain ideas with connectors rather than embedding them.
+The level for "make it readable for non-native speakers." Short-to-medium sentences. Simple connectors (and, but, so, because). Common everyday vocabulary, used mostly literally. Avoid opaque constructions and all idiom. One idea per sentence; chain ideas with connectors rather than embedding them.
 
 _Reads like:_ clear, direct, slightly more spelled-out than you'd write for peers — but not childish.
 
 ### B2 — educated non-native professional _(default)_
 
-The default for most work: international audiences, mixed native/non-native, professional register. Medium sentences with some subordination. Can carry abstraction and argument. Common, transparent idiom is fine ("on the same page"); culture-specific references and opaque phrasal verbs are not. This is the level that keeps precision while staying open to readers who think in another language first.
+The default for most work: international audiences, mixed native/non-native, professional register. Medium sentences with some subordination. Can carry abstraction and argument. Common, transparent idiom is fine ("on the same page"); culture-specific references and opaque constructions are not. This is the level that keeps precision while staying open to readers who think in another language first.
 
 ### C1 — near-native
 
-Longer, more complex sentences allowed. Nuance, figurative language, and precise low-frequency words are in play. Idiom and phrasal verbs are fine. Use when the audience is confident in English and the subject rewards precision.
+Longer, more complex sentences allowed. Nuance, figurative language, and precise low-frequency words are in play. Idiom and opaque constructions are fine. Use when the audience is confident in the language you are writing in and the subject rewards precision.
 
 ### C2 — native / literary
 
-No ceiling. Full vocabulary range, wordplay, cultural reference, literary rhythm. Use only when you are sure the whole audience reads English at a native level — otherwise you are writing for yourself, not them.
+No ceiling. Full vocabulary range, wordplay, cultural reference, literary rhythm. Use only when you are sure the whole audience reads the target language at a native level. Otherwise you are writing for yourself, not them.
 
 ## When the archetype's voice fights the ceiling
 
@@ -95,6 +99,8 @@ Same idea. The first is more provocative _and_ more readable. When a low ceiling
 
 ## Before / after (B2 target)
 
+This worked example is in English; read it as a demonstration of the moves (cut rare words, break embedded clauses), not as English-only advice.
+
 **Before (drifts to C1/C2):**
 
 > Organizations frequently endeavour to ascertain employee sentiment, yet the instruments they leverage — surveys, pulse checks, the occasional town hall — rarely move the needle, and the signal, such as it is, tends to get lost in the noise.
@@ -107,4 +113,4 @@ What changed: _endeavour to ascertain_ → _try hard to find out_; _leverage_ �
 
 ## Self-check: read as the reader
 
-After writing to a level, reread once asking only: _would someone who learned English as a second language, at this level, hit a word or construction they'd have to stop and decode?_ Mark every stumble. Each one is either a lexical swap or a structural break. Fix it without losing the archetype's stance or the sentence's edge.
+After writing to a level, reread once asking only: _would someone reading this in their second language, at this level, hit a word or construction they'd have to stop and decode?_ Mark every stumble. Each one is either a lexical swap or a structural break. Fix it without losing the archetype's stance or the sentence's edge.

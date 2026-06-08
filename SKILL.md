@@ -101,6 +101,8 @@ Read the appropriate reference file based on the channel:
 
 This sets how hard the text is to read. It applies across all channels and archetypes. The essentials are summarized inline below, but always read `references/language-level.md` before writing or refining prose, including at the default B2: it carries the per-band detail, the structural-complexity checks, the archetype-conflict worked examples, and the before/after rewrites that this summary only points at. Do not rely on a general sense of what a CEFR level means.
 
+**Any language.** A level describes the reader in whatever language you are writing, not English specifically. Declare it in the target language and write so a reader at that level, in that language, moves through the text without friction. CEFR is defined for languages in general; the word and phrase examples here and in the reference file are English illustrations of mechanisms you apply in the language at hand. Where the target language has no official level wordlist, apply the band descriptors by judgement.
+
 **Set the reader's level, not the writer's.** CEFR describes what a language _learner_ can handle. Here it is repurposed: you declare the reading level of the intended audience, then write so a reader at that level moves through the text without friction. "B2 copy" means "comfortable for a B2 reader," not "written like a B2 student." (CEFR is a can-do framework, not an official wordlist; the bands below operationalize it for writing.)
 
 **Default: B2** unless the user specifies otherwise. B2 suits an international, professional, often non-native readership: precise, but free of the rare vocabulary and idiom that trip up non-native readers. Setting a default is the point — most accidental complexity creeps in when no level is named.
@@ -123,9 +125,9 @@ Example (one archetype, shown only to demonstrate the rule): a perception-domain
 
 ### Two kinds of complexity to catch
 
-1. **Lexical** — low-frequency, Latinate, or abstract words where a plainer one exists (utilize → use, ascertain → find out, leverage → use). Easy to spot.
-2. **Structural** — the native-speaker patterns that slip in unnoticed because no single word looks wrong:
-   - Opaque phrasal verbs (_bank on, iron out, chalk up to, gloss over_) — non-native readers can't decode these from the parts.
+1. **Lexical** — low-frequency, formal-register, or abstract words where a plainer one exists (in English: utilize → use, ascertain → find out, leverage → use; make the same swap in your target language). Easy to spot.
+2. **Structural** — the fluent-reader patterns that slip in unnoticed because no single word looks wrong:
+   - Opaque multi-word constructions a reader can't decode from the parts (in English, phrasal verbs like _bank on, iron out, chalk up to, gloss over_; every language has its own).
    - Idioms and cultural references (_the elephant in the room, move the needle, table stakes, ballpark_).
    - Stacked hedging (_it might be worth perhaps considering whether…_).
    - Long sentences with multiple embedded clauses.
@@ -134,12 +136,12 @@ Example (one archetype, shown only to demonstrate the rule): a perception-domain
 
 ### Band guide
 
-| Level              | Reader                                             | Sentences                                               | Vocabulary                                      | Idiom & phrasal verbs                                           |
+| Level              | Reader                                             | Sentences                                               | Vocabulary                                      | Idiom & opaque constructions                                           |
 | ------------------ | -------------------------------------------------- | ------------------------------------------------------- | ----------------------------------------------- | --------------------------------------------------------------- |
 | **A2**             | Beginner; accessibility/onboarding edge cases only | Short, one clause                                       | Everyday, concrete                              | None                                                            |
-| **B1**             | Broad international / ESL audience                 | Short–medium, simple connectors (and, but, so, because) | Common, mostly literal                          | Avoid opaque phrasal verbs and idioms                           |
+| **B1**             | Broad international / second-language audience                 | Short–medium, simple connectors (and, but, so, because) | Common, mostly literal                          | Avoid opaque constructions and idioms                           |
 | **B2** _(default)_ | Educated non-native professional                   | Medium, some subordination                              | Can carry abstraction; only common idioms       | Common, transparent idiom OK; avoid culture-specific references |
-| **C1**             | Near-native                                        | Longer, complex allowed                                 | Nuance, figurative language, precise rare words | Idiom and phrasal verbs fine                                    |
+| **C1**             | Near-native                                        | Longer, complex allowed                                 | Nuance, figurative language, precise rare words | Idiom and opaque constructions fine                                    |
 | **C2**             | Native / literary                                  | No ceiling                                              | Full range, wordplay, cultural reference        | No limit                                                        |
 
 ### Edge survives a low ceiling
@@ -209,7 +211,7 @@ After writing or refining, verify:
 
 - [ ] Archetype voice is consistent (checked against sentence patterns and anti-patterns from the reference file)
 - [ ] Vocabulary belongs to this archetype's Language Domain (no borrowed words from other archetypes or from the product's own branding)
-- [ ] Reader CEFR level respected (default B2): vocabulary frequency, sentence complexity, and idiom/phrasal-verb load fit the target; archetype flavor words above the ceiling swapped for in-level synonyms in the same domain; no opaque phrasal verbs or culture-specific idioms below C1
+- [ ] Reader CEFR level respected (default B2): vocabulary frequency, sentence complexity, and idiom/phrasal-verb load fit the target; archetype flavor words above the ceiling swapped for in-level synonyms in the same domain; no opaque multi-word constructions or culture-specific idioms below C1
 - [ ] Channel constraints are met (length, structure, format)
 - [ ] Opening creates tension, not explanation
 - [ ] Rhythm varies (not all sections the same length)
