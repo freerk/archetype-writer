@@ -68,9 +68,9 @@ The skill handles longer content with a human in the loop: it proposes an edit p
 
 ## Use in the Claude.ai app
 
-The Claude.ai app installs skills as a `.zip`. Download the latest release:
+The Claude.ai app installs skills as a `.zip`. Download the versioned zip from the latest release:
 
-[**Download archetype-writer.zip**](https://github.com/freerk/archetype-writer/releases/latest/download/archetype-writer.zip)
+[**Latest release →**](https://github.com/freerk/archetype-writer/releases/latest)
 
 In Claude.ai, go to Customize → Skills → **+ Create skill**, upload the zip, then enable it. From then on it triggers automatically when you ask Claude to write or rewrite prose, or you can name the archetype and channel directly as in the examples above.
 
