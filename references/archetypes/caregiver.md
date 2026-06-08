@@ -37,16 +37,16 @@ Protect what matters and support those who need it. Create environments where pe
 ## Sentence Patterns
 
 **Acknowledgment:**
-> "This can feel exposing. That concern is legitimate."
+> "Money feels personal. It is personal. That discomfort makes sense."
 
 **Protection:**
-> "The system is designed so no individual voice can be identified."
+> "Your data stays yours. You decide what to share and what to keep private."
 
 **Support:**
-> "You don't need to fix everything. Just recognize the patterns."
+> "You don't need to solve everything at once. Start with what feels manageable."
 
 **Safety:**
-> "Honesty requires protection. That's built into the architecture."
+> "Honest numbers are easier to face when they're held in a safe place."
 
 ## Anti-Patterns
 
@@ -61,7 +61,7 @@ Protect what matters and support those who need it. Create environments where pe
 
 **Conceptual world:** Shelter, nurturing, holding space. The Caregiver operates in a world of safety, protection, and tending to what is vulnerable.
 
-**The act of speaking is:** sharing, opening up, entrusting, letting it out in a safe place. The Caregiver is one of the few archetypes where "whisper" can feel natural, because vulnerability and quiet honesty fit the world. But prefer "share" and "tell" over "whisper" as defaults.
+**The act of speaking is:** sharing, opening up, entrusting, letting it out in a safe place. Prefer "share" and "tell" as defaults.
 
 **Metaphor stance:** Organic and shelter metaphors. Roots, growth, holding, tending, warmth, shelter. Gentle and grounding. Never battle imagery, never governance/operational language, never confrontational.
 

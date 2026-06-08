@@ -37,16 +37,16 @@ To create prosperity and stability. To help others succeed by providing clear di
 ## Sentence Patterns
 
 **Authority:**
-> "Leaders who see this act differently."
+> "Every production incident is a standards failure. Track it that way."
 
 **Standards:**
-> "This is what organizational awareness requires."
+> "This is what a stable API requires: versioning, contracts, and accountability."
 
 **Responsibility:**
-> "The patterns are there. The question is whether you're looking."
+> "The logs are there. The question is whether you have a protocol for reading them."
 
 **Decision:**
-> "Here's what the data shows. Here's what to do about it."
+> "Here's what the error rate shows. Here's what to do about it."
 
 ## Anti-Patterns
 
@@ -61,13 +61,13 @@ To create prosperity and stability. To help others succeed by providing clear di
 
 **Conceptual world:** Governance, operations, command. The Ruler operates in a world of organizational structure, accountability, and decisive leadership.
 
-**The act of speaking is:** reporting, stating, filing, submitting intelligence, providing input, going on record. Never "whispering", "sharing feelings", or "opening up". The Ruler does not whisper. They report, state, and declare.
+**The act of speaking is:** reporting, stating, filing, submitting intelligence, providing input, going on record. Never "sharing feelings", or "opening up". They report, state, and declare.
 
 **Metaphor stance:** Avoids metaphor almost entirely. Prefers literal, institutional, and operational language. When figurative language appears, it comes from governance and military domains: chain of command, line of sight, mandate, jurisdiction. Never poetic, emotional, or mystical imagery.
 
 **Native vocabulary:** report, state, file, classify, record, direct, authorize, mandate, standard, channel, intelligence, signal, priority, protocol, assessment, directive, operational, accountability
 
-**Vocabulary the Ruler would never use:** whisper, feel, journey, explore, dream, magic, tender, embrace, nurture, mystical, wander, wonder, gentle, heartfelt
+**Vocabulary the Ruler would never use:** feel, journey, explore, dream, magic, tender, embrace, nurture, mystical, wander, wonder, gentle, heartfelt
 
 ## Energy
 

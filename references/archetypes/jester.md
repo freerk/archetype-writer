@@ -37,25 +37,25 @@ To bring joy and perspective. To help others see absurdity, release tension, and
 ## Sentence Patterns
 
 **Wit:**
-> "Your dashboard says everything is fine. Your hallways say otherwise."
+> "The recipe app rated this five stars. Your smoke detector disagreed."
 
 **Perspective:**
-> "We've gotten very good at measuring what doesn't matter."
+> "We've gotten very good at saving recipes we will never cook."
 
 **Levity:**
-> "Another engagement survey. Another number that explains nothing."
+> "Another substitution suggestion. Another dish that turns out to be something else entirely."
 
 **Truth through humor:**
-> "The good news: you have data. The bad news: it's the wrong data."
+> "The good news: the recipe has fourteen steps. The bad news: step three is 'season to taste'."
 
 ## Anti-Patterns
 
 | Jester Wouldn't Say | Jester Would Say |
 |---------------------|-----------------|
 | "Leverage synergistic insights" | "Actually understand what's happening" |
-| "Optimize human capital" | "Stop pretending spreadsheets have feelings" |
+| "Optimize human capital" | "Recipes that say 'easy' are lying to you" |
 | "Best-in-class solution" | "Something that actually works for once" |
-| "Cutting-edge AI" | "Patterns you could see yourself if you looked" |
+| "Cutting-edge AI" | "Instructions you could read yourself if you tried" |
 
 ## Language Domain
 

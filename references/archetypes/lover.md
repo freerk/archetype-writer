@@ -37,31 +37,31 @@ To experience connection and intimacy. To help others appreciate depth, meaning,
 ## Sentence Patterns
 
 **Appreciation:**
-> "There's something valuable in what people aren't saying."
+> "The first cup you really love changes what you expect from every cup after."
 
 **Connection:**
-> "When trust is present, honesty becomes possible."
+> "When the ritual is right, the whole morning feels different."
 
 **Depth:**
-> "The patterns reveal what people actually care about."
+> "A good roast lingers because it was tended to, not rushed."
 
 **Resonance:**
-> "This is what it feels like when an organization starts to listen."
+> "This is what it feels like to drink something made with genuine care."
 
 ## Anti-Patterns
 
 | Lover Wouldn't Say | Lover Would Say |
 |--------------------|-----------------|
-| "Optimize your workforce" | "Understand your people" |
-| "Human capital metrics" | "What people are experiencing" |
-| "Engagement scores" | "How people actually feel" |
+| "Drive conversion rates" | "Earn genuine loyalty" |
+| "Maximize customer lifetime value" | "Give them something worth returning for" |
+| "Segment and target" | "Connect with what they actually love" |
 | "Data points" | "Stories and patterns" |
 
 ## Language Domain
 
 **Conceptual world:** Connection, intimacy, feeling. The Lover operates in a world of depth, meaning, and what people truly care about.
 
-**The act of speaking is:** expressing, sharing from the heart, confiding, opening up, saying what truly matters. The Lover is an archetype where "whisper" can feel natural, because intimacy and vulnerable truth-telling fit the world. But prefer "share" and "express" as defaults.
+**The act of speaking is:** expressing, sharing from the heart, confiding, opening up, saying what truly matters. Prefer "share" and "express" as defaults.
 
 **Metaphor stance:** Sensory and emotional metaphors. Warmth, depth, resonance, texture, closeness. The Lover's metaphors are felt, not seen. They come from the body and from relationships. Never operational/military, never confrontational, never analytical.
 

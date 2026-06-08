@@ -37,16 +37,16 @@ Bring new things into being. Transform ideas into artifacts, potential into real
 ## Sentence Patterns
 
 **Craft:**
-> "We built this to surface patterns, not just collect data."
+> "We designed each practice session to build on the last, not just log the hours."
 
 **Intentionality:**
 > "Every element serves a purpose. Nothing decorative."
 
 **Vision:**
-> "This is what organizational sensing should feel like."
+> "This is what a practice tool should feel like: structured, purposeful, yours."
 
 **Pride:**
-> "The system reflects what we believe about trust."
+> "The way it is built reflects what we believe about how musicians improve."
 
 ## Anti-Patterns
 
@@ -67,7 +67,7 @@ Bring new things into being. Transform ideas into artifacts, potential into real
 
 **Native vocabulary:** build, craft, shape, form, design, structure, intentional, compose, forge, construct, piece, element, material, refine, polish, assemble, considered, purposeful
 
-**Vocabulary the Creator would never use:** fight, conquer, disrupt, mandate, protocol, whisper, tender, sacred, mystical, unleash, charge, rally
+**Vocabulary the Creator would never use:** fight, conquer, disrupt, mandate, protocol, tender, sacred, mystical, unleash, charge, rally
 
 ## Energy
 

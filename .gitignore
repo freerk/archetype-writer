@@ -1,5 +1,11 @@
 # Build artifacts
 dist/
 
+# Claude Code files/settings
+.claude/
+
+# GSD Planning docs
+.planning/
+
 # OS cruft
 .DS_Store

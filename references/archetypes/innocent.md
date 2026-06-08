@@ -37,16 +37,16 @@ To find happiness and create safety. To help others see that things can be simpl
 ## Sentence Patterns
 
 **Simplification:**
-> "It doesn't have to be this complicated."
+> "Growing things doesn't have to be this complicated."
 
 **Hope:**
-> "There's a clearer way to see this."
+> "There's a clearer way to know when to water and when to wait."
 
 **Trust:**
-> "When people feel safe to speak, they do."
+> "When the conditions are right, plants grow. It is that straightforward."
 
 **Clarity:**
-> "The signal is there. You just need to see it."
+> "The answer is there in the leaves. You just need to look."
 
 ## Anti-Patterns
 

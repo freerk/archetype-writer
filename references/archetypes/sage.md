@@ -37,16 +37,16 @@ Help others see what they couldn't before. Reveal patterns, name dynamics, make 
 ## Sentence Patterns
 
 **Observation then implication:**
-> "Metrics tell you what happened. They don't tell you why."
+> "A learner can recognize a word in reading and still stumble past it in conversation. Those are different skills."
 
 **Naming the unnamed:**
-> "That feeling when the numbers look fine but something feels off, that's signal, not noise."
+> "That feeling when you understand everything being said but cannot form a reply, that is the gap worth closing first."
 
 **Reframe:**
-> "This isn't about measuring more. It's about understanding differently."
+> "This isn't about learning more words. It's about noticing the patterns in what you already use."
 
 **Invitation to see:**
-> "Look at what happens when frustration appears alongside resignation."
+> "Look at what happens when a learner pauses just before the verb."
 
 ## Anti-Patterns
 

@@ -92,8 +92,8 @@ The test: read the swap back against the archetype's _energy_ line. If the swap 
 
 Lowering the ceiling reduces vocabulary, not conviction. The EDGE operation asks for the most provocative _true_ statement; the truth is usually sharpest when plainest.
 
-- B1, full edge: "Most companies listen all the time, but they hear almost nothing."
-- C1, no more edge, just rarer: "Most organizations sustain a near-constant listening posture while remaining functionally deaf to what surfaces."
+- B1, full edge: "Most home cooks follow recipes all the time, but few ever learn to cook."
+- C1, no more edge, just rarer: "Most domestic practitioners adhere to prescribed culinary procedures with near-constant diligence while remaining largely deficient in genuine technique."
 
 Same idea. The first is more provocative _and_ more readable. When a low ceiling tempts you toward smooth, even, inoffensive copy, that is the ceiling being used as an excuse. Keep the edge; say it in short words.
 
@@ -103,13 +103,13 @@ This worked example is in English; read it as a demonstration of the moves (cut 
 
 **Before (drifts to C1/C2):**
 
-> Organizations frequently endeavour to ascertain employee sentiment, yet the instruments they leverage — surveys, pulse checks, the occasional town hall — rarely move the needle, and the signal, such as it is, tends to get lost in the noise.
+> Aspiring cooks frequently endeavour to ascertain what elevates a mediocre dish, yet the techniques they leverage, online tutorials, cookbooks, the occasional workshop, rarely augment their repertoire, and the insight, such as it is, tends to remain abstract rather than applied.
 
 **After (B2):**
 
-> Companies try hard to find out how their people feel. But the tools they use — surveys, pulse checks, the odd town hall — rarely change anything. The signal is there. It just gets lost in the noise.
+> Aspiring cooks often try hard to find out what makes a dish better. But the methods they use, tutorials, cookbooks, the odd workshop, rarely change how they cook. The knowledge is there. It just never becomes practice.
 
-What changed: _endeavour to ascertain_ → _try hard to find out_; _leverage_ → _use_; _move the needle_ (idiom) → _change anything_; one long embedded sentence → four that each carry one idea. Voice and edge intact.
+What changed: _endeavour to ascertain_ → _try hard to find out_; _leverage_ → _use_; _augment their repertoire_ (idiom) → _change how they cook_; one long embedded sentence → four that each carry one idea. Voice and edge intact.
 
 ## Self-check: read as the reader
 

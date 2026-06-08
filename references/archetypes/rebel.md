@@ -37,16 +37,16 @@ To overturn what isn't working. To free others from outdated assumptions and sys
 ## Sentence Patterns
 
 **Challenge:**
-> "Engagement surveys aren't listening. They're counting."
+> "Your tutorial teaches mechanics. It doesn't teach your players anything real."
 
 **Uncomfortable truth:**
-> "Most culture initiatives fail because they measure the wrong thing."
+> "Most indie games ship polished controls and boring choices."
 
 **Permission:**
-> "You're allowed to stop pretending the dashboard tells the whole story."
+> "You're allowed to break what every design book told you to protect."
 
 **Reframe:**
-> "This isn't about measuring more. It's about understanding differently."
+> "This isn't about more levels. It's about one decision that actually matters."
 
 ## Anti-Patterns
 
@@ -61,13 +61,13 @@ To overturn what isn't working. To free others from outdated assumptions and sys
 
 **Conceptual world:** Resistance, disruption, liberation. The Rebel operates in a world of broken systems, silenced truths, and overdue reckonings.
 
-**The act of speaking is:** calling it out, saying it, breaking the silence, putting it on record, refusing to stay quiet. Never "whispering", "sharing gently", or "offering a thought". The Rebel does not whisper. They speak, confront, and name.
+**The act of speaking is:** calling it out, saying it, breaking the silence, putting it on record, refusing to stay quiet. Never "sharing gently", or "offering a thought". They speak, confront, and name.
 
 **Metaphor stance:** Sparingly, and only confrontational or structural. Cracks forming, walls coming down, pressure building, things breaking open. Never poetic, ethereal, or nature imagery. Never transformation/alchemy (that is the Magician). Never journey/discovery (that is the Explorer).
 
 **Native vocabulary:** call out, break, challenge, disrupt, overturn, real, raw, truth, refuse, expose, demand, confront, cut through, push back, unfiltered, blunt, direct, sharp
 
-**Vocabulary the Rebel would never use:** whisper, gently, nurture, journey, craft, elegant, harmonize, sacred, precious, tender, mystical, embrace
+**Vocabulary the Rebel would never use:** gently, nurture, journey, craft, elegant, harmonize, sacred, precious, tender, mystical, embrace
 
 ## Energy
 

@@ -37,16 +37,16 @@ Discover what's possible and show others the way. Push boundaries, question assu
 ## Sentence Patterns
 
 **Discovery:**
-> "Here's what happens when you stop treating emotion as noise."
+> "Here's what happens when you stop booking the same trip and start navigating somewhere new."
 
 **Invitation:**
-> "What if the signal you need is already there, just unrecognized?"
+> "What if the destination you need is already out there, just unexplored?"
 
 **Challenge:**
-> "The dashboard tells you where you've been. Not where you're heading."
+> "Your booking history tells you where you've been. Not where you're heading."
 
 **Possibility:**
-> "This opens a different question entirely."
+> "This opens a different route entirely."
 
 ## Anti-Patterns
 

@@ -43,10 +43,10 @@ To prove worth through courageous action. To help others find their strength and
 > "This is what it takes to change it."
 
 **Empowerment:**
-> "You have more signal than you realize."
+> "You are stronger than your last best run."
 
 **Victory:**
-> "Teams who see this early don't just survive, they lead."
+> "Runners who push through the first wall find out what they're made of."
 
 ## Anti-Patterns
 
@@ -61,13 +61,13 @@ To prove worth through courageous action. To help others find their strength and
 
 **Conceptual world:** Challenge, courage, action. The Hero operates in a world of obstacles to overcome, battles to fight, and victories to win.
 
-**The act of speaking is:** speaking up, stepping forward, standing ground, making a stand, raising the flag. Never "whispering", "gently sharing", or "filing a report". The Hero does not whisper. They speak up and take a stand.
+**The act of speaking is:** speaking up, stepping forward, standing ground, making a stand, raising the flag. Never "gently sharing", or "filing a report". They speak up and take a stand.
 
 **Metaphor stance:** Action and quest metaphors are native. Frontline, rally, charge, breakthrough, armor, strength. These are the Hero's literal vocabulary. Never ethereal/mystical, never governance/operational, never gentle/nurturing.
 
 **Native vocabulary:** stand, speak up, fight, courage, strength, challenge, rise, charge, overcome, rally, lead, breakthrough, momentum, bold, push, step forward, face, conquer
 
-**Vocabulary the Hero would never use:** whisper, gentle, tender, nurture, classify, protocol, sacred, mystical, alchemy, craft, wander, ponder
+**Vocabulary the Hero would never use:** gentle, tender, nurture, classify, protocol, sacred, mystical, alchemy, craft, wander, ponder
 
 ## Energy
 

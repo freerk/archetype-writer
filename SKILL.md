@@ -186,9 +186,9 @@ Compressed text should sound like someone talking, just tighter than normal spee
 
 **Read-aloud test:** If it sounds like someone reading a shopping list, you've cut too deep.
 
-**Bad (telegram style):** "This is the difference between listening and hearing. Most organizations listen constantly. They hear almost nothing."
+**Bad (telegram style):** "This is the difference between searching and booking. Most travellers browse constantly. They book almost nothing."
 
-**Good (tight but readable):** "Most organizations listen constantly, surveys, feedback forms, town halls. But listening isn't hearing. The signal gets collected; it rarely gets understood."
+**Good (tight but readable):** "Most travellers browse constantly, flights, hotels, packages. But browsing isn't booking. The options get saved; they rarely get decided."
 
 ### Core principle
 

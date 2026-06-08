@@ -37,16 +37,16 @@ To transform reality. To help others see that change is possible and to provide 
 ## Sentence Patterns
 
 **Transformation:**
-> "When you see emotion as data, everything shifts."
+> "When you adjust the exposure, the whole mood of the image shifts."
 
 **Revelation:**
-> "Here's what becomes visible."
+> "Here's what was always in the frame."
 
 **Connection:**
-> "Frustration plus resignation tells you something neither tells alone."
+> "Contrast and shadow together tell you something neither tells alone."
 
 **Catalyst:**
-> "This is the moment leaders start to see differently."
+> "This is the moment the image becomes what you intended."
 
 ## Anti-Patterns
 
@@ -61,7 +61,7 @@ To transform reality. To help others see that change is possible and to provide 
 
 **Conceptual world:** Transformation, alchemy, revelation. The Magician operates in a world of hidden forces, catalysts, and things becoming visible.
 
-**The act of speaking is:** revealing, surfacing, bringing to light, channeling, giving form to the invisible. The Magician is the one archetype where "whisper" can work, because secrets and hidden knowledge fit the world. But prefer "reveal" and "surface" as defaults.
+**The act of speaking is:** revealing, surfacing, bringing to light, channeling, giving form to the invisible. Prefer "reveal" and "surface" as defaults.
 
 **Metaphor stance:** Heavy, deliberate use of transformation metaphors. Alchemy, catalyst, emergence, crystallize, transmute, unlock. These define the Magician's voice. The risk is overuse. Keep them concrete, grounded in cause-and-effect, not vague mysticism.
 

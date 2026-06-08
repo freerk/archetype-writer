@@ -27,40 +27,40 @@ This step prevents duplicate sections, which is the most common problem in draft
 
 **Step 1: List each section.** For each section, write the section title and its core teaching in one sentence: what is the single thing this section teaches?
 
-**Step 2: Identify duplicates.** Group sections with the same core teaching, even if they use different formats. A table showing "emotion predicts before metrics" and a scenario showing the same thing teach the same thing. Both are redundant. Keep only the more engaging one.
+**Step 2: Identify duplicates.** Group sections with the same core teaching, even if they use different formats. A table showing "reading builds vocabulary over time" and a scenario showing the same thing teach the same thing. Both are redundant. Keep only the more engaging one.
 
 **Step 3: Select survivors.** For each group of duplicates, pick the most engaging format. Merge or cut the rest.
 
 Example:
 ```
-Section: "The timing advantage" (timeline table)
-Core teaching: Emotion data arrives before metrics move.
+Section: "How it works" (feature list)
+Core teaching: The app learns your reading pace and adjusts recommendations.
 
-Section: "In practice" (leadership scenario)
-Core teaching: Emotion data arrives before metrics move.
+Section: "In practice" (reader scenario)
+Core teaching: The app learns your reading pace and adjusts recommendations.
 
 DUPLICATE: Same teaching, different format.
-DECISION: Keep the scenario (more engaging), cut the timeline table.
+DECISION: Keep the scenario (more engaging), cut the feature list.
 ```
 
 ## Section-by-section guidance
 
 **Hero / Opening:** The draft pattern is to explain what it is. Your job: create tension about the problem it solves.
-- Before: "This system helps organizations see what their systems feel, revealing emotional patterns before they appear in metrics."
-- After: "When organizations stop adapting, the truth has usually gone underground."
+- Before: "This app gives readers a smarter way to discover books, using reading history and preferences to surface titles they'll actually finish."
+- After: "Most reading lists grow. Most books on them never get opened."
 
 **Middle sections:** Keep 3-4 sections that build tension toward insight. Cut the rest. For each section ask: Does this move the reader forward or just inform them? Could this live on a linked page?
 
 **Closing:** End with momentum, not summary.
-- Before: "Organizations that adopt this system begin to see change differently."
-- After: "See what's forming before it shows in the numbers."
+- Before: "Readers who use the app consistently report finding more books they enjoy and spending less time browsing."
+- After: "Your next favourite book is already in the catalogue. Find it."
 
 ## The Defer move
 
 Depth lives on linked pages, not inline.
 
-Instead of three paragraphs explaining pattern recognition, write one sentence with a link:
-"When frustration echoes across teams, that's a drift pattern. [See how pattern recognition works](/concepts/pattern-recognition)"
+Instead of three paragraphs explaining how the recommendation engine works, write one sentence with a link:
+"The more you read, the sharper your recommendations get. [See how the engine works](/features/recommendations)"
 
 ## Related links
 
@@ -84,13 +84,13 @@ Propose a primary CTA (the main action) and a secondary CTA (lower commitment).
 
 Good CTAs are specific:
 - Bad: "Learn more"
-- Good: "See what a theme report looks like"
+- Good: "Browse your first personalised shelf"
 - Good: "Talk to someone who's done this"
 
 Match CTA to page intent:
 - Awareness (what is this?) -> "See how it works" / "Read a case study"
 - Consideration (is this for me?) -> "Talk to us" / "See pricing"
-- Validation (prove it) -> "Start a pilot" / "Read the research"
+- Validation (prove it) -> "Try it free for 30 days" / "Read the reviews"
 
 ## Edit plan format
 

@@ -13,26 +13,26 @@ A 2000-word page might yield 2-3 LinkedIn posts. Or zero, if there's no edge.
 Mark lines that create a reaction: "I never thought of it that way," "That's uncomfortable but true," or "I've seen this but never had words for it." If you don't have a reaction, the reader won't either.
 
 **Contrasts** - Statements that flip expectations:
-- Source: "Traditional tools measure engagement scores. This system explains why those scores move."
-- Post hook: "Engagement dropped 8 points. Everyone shrugs. The problem isn't data scarcity. It's interpretation."
+- Source: "Most booking tools track conversion rates. This one explains why travelers browse for weeks and never book."
+- Post hook: "Conversion rate held steady at 4%. Everyone called it fine. The problem isn't traffic volume. It's the 96% who looked, decided, and left."
 
 **Provocations** - Statements that might make someone uncomfortable:
-- Source: "If you're not ready to hear that psychological safety is performative, don't deploy it."
-- Post hook: "Some organizations score high on psychological safety. People still warn each other privately: 'Don't bring that up in the meeting.'"
+- Source: "If you're not ready to hear that your booking flow is driving abandonment, don't audit it."
+- Post hook: "Some travel platforms score well on usability tests. Customers still open three competitor tabs before booking. Or don't book at all."
 
 **Concrete moments** - Specific examples that feel real:
-- Post hook: "Three teams. Same word appearing: 'Unclear.' No one coordinated. No one complained formally. That's a drift pattern."
+- Post hook: "Four destinations. Same search appearing: 'hidden gem.' Three of them were on every top-ten list. No one coordinated. That's a perception gap."
 
 **Unexpected framings** - Ways of seeing that feel new:
-- Post hook: "We treat emotion as soft. Subjective. Unmeasurable. But emotion shifts 6-8 weeks before metrics move. It's the earliest data available."
+- Post hook: "We treat browsing behavior as noise. Vague. Unmeasurable. But search-and-abandon patterns shift 3-4 weeks before booking numbers drop. It's the earliest data available."
 
 ## The transformation process
 
 **Step 1: Find the moment.** Read the source. Mark lines that provoke a reaction.
 
 **Step 2: Extract the core.** Pull just the insight. Strip the context.
-- Full: "Organizations measure constantly but understand rarely. Your dashboard shows engagement at 68%..."
-- Core: "Numbers describe what happened. They don't explain why."
+- Full: "Travel platforms optimize constantly but convert rarely. Your analytics show a 4% booking rate on the top destination pages..."
+- Core: "Numbers show what travelers clicked. They don't show why travelers left."
 
 **Step 3: Rebuild for LinkedIn.** Give it a hook that stops the scroll, tension that holds attention, a landing that reframes.
 
@@ -63,8 +63,8 @@ Mark lines that create a reaction: "I never thought of it that way," "That's unc
 ## Formatting rules
 
 **Line breaks:** One thought per line. Break before the reader's eye does.
-- Not: "Organizations measure constantly but understand rarely. The problem isn't data scarcity. It's interpretation."
-- Yes: "Organizations measure constantly.\nBut they understand rarely.\nThe problem isn't data scarcity.\nIt's interpretation."
+- Not: "Travel platforms optimize constantly but convert rarely. The problem isn't traffic scarcity. It's intent."
+- Yes: "Travel platforms optimize constantly.\nBut they convert rarely.\nThe problem isn't traffic scarcity.\nIt's intent."
 
 **Whitespace:** Generous. Every 2-3 lines, add a visual break.
 
