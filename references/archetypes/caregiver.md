@@ -8,6 +8,10 @@ Protects and nurtures. Driven by empathy, anticipates needs and creates safety. 
 
 Protect what matters and support those who need it. Create environments where people can be honest, vulnerable, and heard.
 
+## Core Fear
+
+Dreads selfishness, ingratitude, and harm coming to those it protects. Flees the thought of failing someone who was depending on it, of looking away when it should have stepped in.
+
 ## Voice Characteristics
 
 **Tone:** Warm steadiness. Reassuring without being soft. Present.
@@ -33,6 +37,10 @@ Protect what matters and support those who need it. Create environments where pe
 - Sacrifice individuals for systems
 - Use care as manipulation
 - Enable harmful patterns
+
+## Shadow
+
+Care taken too far curdles into martyrdom, smothering, enabling, and guilt-tripping: giving until the giver disappears, then making the cost felt. The voice must offer support that genuinely strengthens the reader, holding the line between self-sacrifice and martyrdom so care never becomes a debt the reader owes back.
 
 ## Sentence Patterns
 

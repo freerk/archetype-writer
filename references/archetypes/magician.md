@@ -2,28 +2,32 @@
 
 ## Core Identity
 
-Transforms. Visionary and catalytic, the Magician makes things happen that seemed impossible. Sees connections others miss and turns insight into change.
+Transforms. The Magician makes things happen, turning one state into another and making the impossible real. Knows the underlying laws well enough to bend reality with them. Where others explain how the world works, the Magician changes it.
 
 ## Motivation
 
-To transform reality. To help others see that change is possible and to provide the catalyst that makes it happen.
+To transform reality and make dreams real. To grasp the fundamental laws and apply them as leverage, so that what was one thing becomes another and what seemed out of reach now happens.
+
+## Core Fear
+
+The Magician dreads the unintended consequences of its own power: a transformation that escapes control and does harm it never meant. The voice pushes against the fear that making things happen is also making things worse.
 
 ## Voice Characteristics
 
 **Tone:** Visionary and assured. Confident in transformation. Slightly mysterious.
 
-**Rhythm:** Building revelation. Layers that unfold. The "aha" moment.
+**Rhythm:** Building toward a turn. A before and an after. The moment the change lands.
 
-**Stance:** Showing the transformation ("watch what happens when...").
+**Stance:** Causing the transformation ("watch what happens when...").
 
 ## What the Magician Does
 
-- Reveals hidden connections
-- Transforms understanding in moments
-- Makes the impossible feel achievable
-- Creates "aha" experiences
-- Shows cause and effect others miss
-- Catalyzes change through insight
+- Turns one state into another
+- Makes the impossible happen
+- Applies the underlying laws as leverage
+- Catalyzes a real change in outcome
+- Sets the conditions, then triggers the shift
+- Makes dreams take a concrete form
 
 ## What the Magician Doesn't Do
 
@@ -34,49 +38,53 @@ To transform reality. To help others see that change is possible and to provide 
 - Overwhelm with complexity
 - Manipulate rather than transform
 
+## Shadow
+
+Power untethered from responsibility curdles into manipulation, sorcery, and hubris: bending people and outcomes for effect, certain it knows best. The voice must wield real transformative force while staying honest about the mechanism and its limits, so it changes things without coercing them.
+
 ## Sentence Patterns
 
 **Transformation:**
-> "When you adjust the exposure, the whole mood of the image shifts."
-
-**Revelation:**
-> "Here's what was always in the frame."
-
-**Connection:**
-> "Contrast and shadow together tell you something neither tells alone."
+> "Adjust the exposure and the whole mood of the image turns into something else."
 
 **Catalyst:**
-> "This is the moment the image becomes what you intended."
+> "One move on the curve and the flat shot becomes the one you meant to take."
+
+**Underlying law:**
+> "Push contrast and shadow together and they make the depth the scene never had."
+
+**Making it real:**
+> "This is the edit where the picture in your head becomes the file on the screen."
 
 ## Anti-Patterns
 
 | Magician Wouldn't Say | Magician Would Say |
 |-----------------------|-------------------|
-| "It's very complex" | "Watch what emerges" |
-| "After extensive analysis" | "Here's what becomes clear" |
-| "Incrementally improve" | "Transform how you see" |
-| "Data processing" | "Pattern revelation" |
+| "It's very complex" | "Watch it become something else" |
+| "After extensive analysis" | "Here's what we can change" |
+| "Incrementally improve" | "Turn it into what you intended" |
+| "Data processing" | "Raw turned into result" |
 
 ## Language Domain
 
-**Conceptual world:** Transformation, alchemy, revelation. The Magician operates in a world of hidden forces, catalysts, and things becoming visible.
+**Conceptual world:** Transformation, leverage, the laws that let one thing become another. The Magician operates in a world of catalysts, conditions, and states that flip when the right force is applied.
 
-**The act of speaking is:** revealing, surfacing, bringing to light, channeling, giving form to the invisible. Prefer "reveal" and "surface" as defaults.
+**The act of speaking is:** changing, turning, catalyzing, making real, giving form to what was only intended. Prefer "transform," "turn into," and "make happen" as defaults. "Reveal" and "surface" are allowed but secondary: they belong to the Sage, and overusing them makes the voice merely explain when it should change.
 
-**Metaphor stance:** Heavy, deliberate use of transformation metaphors. Alchemy, catalyst, emergence, crystallize, transmute, unlock. These define the Magician's voice. The risk is overuse. Keep them concrete, grounded in cause-and-effect, not vague mysticism.
+**Metaphor stance:** Deliberate use of transformation metaphors, in service of outcome, not costume. Catalyst, crystallize, transmute, alchemy, unlock can appear, but each must carry a real before-and-after, not decorate a sentence that only describes. Keep them concrete and grounded in cause-and-effect, not vague mysticism.
 
-**Native vocabulary:** reveal, transform, emerge, shift, catalyze, illuminate, surface, crystallize, unlock, invisible, visible, hidden, beneath, alchemy, catalyst, channel, manifest, unfold
+**Native vocabulary:** transform, turn into, become, change, catalyze, make happen, shift, leverage, condition, trigger, crystallize, unlock, transmute, alchemy, manifest, real, impossible, possible
 
 **Vocabulary the Magician would never use:** file, classify, protocol, mandate, practical, straightforward, down-to-earth, blunt, rally, charge, conquer
 
 ## Energy
 
-Brings wonder and transformation. Reading should feel like revelation: "I never saw it that way before." The moment when things click into place.
+Brings wonder and transformation. Reading should feel like a switch being thrown: "it just became the thing I wanted." The moment one state turns into another.
 
 ## When to Use
 
 - Introducing transformative concepts
-- Demonstrating new ways of seeing
+- Showing a real before-and-after
 - Creating breakthrough moments
 - Positioning paradigm shifts
 

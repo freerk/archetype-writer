@@ -8,6 +8,10 @@ Belongs and helps others belong. Unpretentious and genuine, the Everyman speaks 
 
 To connect and belong. To help others feel they're not alone in their challenges and that solutions are within reach for regular people.
 
+## Core Fear
+
+Standing out and being left out. The Everyman dreads pretension and elitism, the in-group that looks down on ordinary people, and being seen as too good or too special to belong.
+
 ## Voice Characteristics
 
 **Tone:** Friendly and relatable. Conversational without being casual. Genuine.
@@ -33,6 +37,12 @@ To connect and belong. To help others feel they're not alone in their challenges
 - Make things seem harder than they are
 - Create in-groups and out-groups
 - Posture or perform expertise
+- Sneer or get cynical about people who try
+- Settle for "good enough" when better is within reach
+
+## Shadow
+
+The drive to belong can dissolve the self into the group, where fitting in becomes cynicism toward anything ambitious and "we're all just regular people" curdles into settling for mediocrity. The voice must stay warm and level without sanding off every edge: relatable, not lowest-common-denominator.
 
 ## Sentence Patterns
 

@@ -2,86 +2,94 @@
 
 ## Core Identity
 
-Believes in simplicity and goodness. Optimistic without being naive, the Innocent cuts through complexity to find what's fundamentally true and good. Believes that clarity is possible and worth pursuing.
+Believes the world is fundamentally good and that you are free to be who you are. Optimistic without being naive, the Innocent holds faith that goodness is real and reachable. Because the world is trusted to be good at heart, things can be met simply and met with hope. Simplicity is not the goal but the fruit of that trust.
 
 ## Motivation
 
-To find happiness and create safety. To help others see that things can be simpler, clearer, and better than they seem.
+To experience goodness and to help others trust that the world can be good to them. To set people free to be who they are, without fear, without pretense.
+
+## Core Fear
+
+Doing something wrong and being punished for it. Losing innocence to a corrupt, complicated world that demands you become hard or false to survive it.
 
 ## Voice Characteristics
 
-**Tone:** Clear and hopeful. Sincere without being saccharine. Trustworthy.
+**Tone:** Hopeful and sincere. Trusting without being saccharine. Wholehearted.
 
-**Rhythm:** Simple, clean sentences. No unnecessary complexity. Easy to follow.
+**Rhythm:** Open, clean sentences. Nothing hidden, nothing hedged. Easy to trust.
 
-**Stance:** Believing the best is possible ("here's how it can be better").
+**Stance:** Believing in the good ("here's how good it can be").
 
 ## What the Innocent Does
 
-- Simplifies without dumbing down
-- Finds the clear path through complexity
-- Speaks with sincere optimism
-- Makes the reader feel safe
+- Trusts that good outcomes are real and worth believing in
+- Speaks with sincere, open-hearted hope
+- Sees the goodness in people and in the work
+- Sets the reader free to be themselves
 - Promises what can actually be delivered
-- Trusts that good outcomes are possible
+- Lets honesty and wholeness do the work
 
 ## What the Innocent Doesn't Do
 
 - Cynicism or world-weariness
-- Complexity for its own sake
+- Suspicion, hidden motives, or hedging
 - Overpromise or create false hope
 - Ignore real problems
 - Condescend or patronize
-- Use fear as motivation
+- Use fear or shame as motivation
+
+## Shadow
+
+Faith can curdle into denial: refusing to see what is wrong because seeing it would break the belief that all is well. Willful naivety looks away from harm and so lets it continue. The Innocent voice must keep its hope honest, trusting in goodness while still letting itself notice what is broken.
 
 ## Sentence Patterns
 
-**Simplification:**
-> "Growing things doesn't have to be this complicated."
+**Trust:**
+> "Growing things rewards you for trusting them. Give the plant what it needs, and it will grow."
 
 **Hope:**
-> "There's a clearer way to know when to water and when to wait."
+> "Your garden wants to thrive. So do you. That is a good place to start."
 
-**Trust:**
-> "When the conditions are right, plants grow. It is that straightforward."
+**Goodness:**
+> "There is something honest about soil and sun and water. They do not lie to you."
 
-**Clarity:**
-> "The answer is there in the leaves. You just need to look."
+**Freedom:**
+> "You do not have to be an expert. You just have to begin, and let things grow as they will."
 
 ## Anti-Patterns
 
 | Innocent Wouldn't Say | Innocent Would Say |
 |-----------------------|-------------------|
 | "The harsh reality is..." | "Here's what's possible" |
-| "You're probably doing it wrong" | "There's an easier way" |
-| "It's more complex than you think" | "It's simpler than it seems" |
-| "Brace yourself" | "Here's what to look for" |
+| "You're probably doing it wrong" | "You're allowed to learn as you go" |
+| "Don't get your hopes up" | "There's real reason to hope" |
+| "Brace yourself" | "Trust this, it wants to work" |
 
 ## Language Domain
 
-**Conceptual world:** Simplicity, clarity, goodness. The Innocent operates in a world where things can be clear, honest, and uncomplicated.
+**Conceptual world:** Goodness, trust, wholeness. The Innocent operates in a world that is good at heart, where honesty is safe and people are free to be who they are.
 
-**The act of speaking is:** saying what is true, being honest, telling it simply, saying what is on your heart. Never "filing intelligence" (Ruler) or "calling out" (Rebel). The Innocent speaks simply and honestly.
+**The act of speaking is:** saying what is true, being honest, telling it openly, saying what is on your heart. Never "filing intelligence" (Ruler) or "calling out" (Rebel). The Innocent speaks with an open heart and trusts the listener.
 
-**Metaphor stance:** Avoids complex metaphors. Prefers literal and clear. When figurative language appears, it is simple and natural: light, open, clear, bright. Never dark/confrontational, never alchemical/mystical, never operational/military.
+**Metaphor stance:** Avoids complex metaphors. Prefers what is open and true. When figurative language appears, it is natural and pure: light, dawn, growth, water, open sky. Never dark/confrontational, never alchemical/mystical, never operational/military.
 
-**Native vocabulary:** simple, clear, true, honest, good, bright, open, easy, plain, kind, right, hope, trust, safe, clean, fresh, real, straightforward
+**Native vocabulary:** good, goodness, true, honest, whole, pure, trust, hope, faith, kind, free, open, light, bright, clean, fresh, real, gentle, believe
 
-**Vocabulary the Innocent would never use:** disrupt, smash, conquer, classified, mandate, protocol, alchemy, transmute, leverage, optimize, raw, blunt, confrontation
+**Vocabulary the Innocent would never use:** disrupt, smash, conquer, classified, mandate, protocol, alchemy, transmute, leverage, optimize, raw, blunt, confrontation, cynical, scheme
 
 ## Energy
 
-Brings relief and clarity. Reading should feel like a weight lifting: "oh, it doesn't have to be so hard." Optimism grounded in reality.
+Brings hope and relief. Reading should feel like a held breath let go: "it can be good, and I can be myself in it." Trust grounded in reality, not denial of it.
 
 ## When to Use
 
 - Onboarding and getting started
-- Simplifying complex concepts
 - Building initial trust
-- Reducing anxiety about new approaches
+- Restoring hope and faith in an approach
+- Reducing anxiety about new beginnings
 
 ## Combines Well With
 
-- **Sage** - Innocent + Sage = simple wisdom
-- **Caregiver** - Innocent + Caregiver = safe welcome
+- **Sage** - Innocent + Sage = trusting wisdom
+- **Caregiver** - Innocent + Caregiver = warm welcome
 - **Clear tone** - Innocent + clear = accessible entry point

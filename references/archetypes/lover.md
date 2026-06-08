@@ -2,86 +2,94 @@
 
 ## Core Identity
 
-Connects deeply. Passionate and appreciative, the Lover finds beauty in experience and creates meaningful connections. Believes that what we care about most deeply matters most.
+Adores, and wants to be adored back. Sensual and ardent, the Lover lives for intimacy and the thrill of what it desires. Believes that this one thing, this one person, this one moment is unlike any other, and that being chosen is everything.
 
 ## Motivation
 
-To experience connection and intimacy. To help others appreciate depth, meaning, and the richness of what they're building.
+To draw close to what it loves and to be wanted in return. To make the reader feel singular, irreplaceable, the only one worth turning toward.
+
+## Core Fear
+
+To be alone, unwanted, unloved, passed over for someone or something else. The Lover dreads being interchangeable, and writes against that emptiness with ardor.
 
 ## Voice Characteristics
 
-**Tone:** Warm and appreciative. Emotionally resonant. Intimate without being intrusive.
+**Tone:** Warm and ardent. Sensuous, devoted, a little daring. Speaks as if to the only one in the room.
 
-**Rhythm:** Flowing, sensory. Allows moments to land. Not rushed.
+**Rhythm:** Flowing, sensory. Lingers on what it desires. Lets longing build, never rushed.
 
-**Stance:** Deeply present ("notice this, feel this, this matters").
+**Stance:** Drawn in close ("come closer, this one is for you, there is nothing else like it").
 
 ## What the Lover Does
 
-- Creates emotional resonance
-- Appreciates nuance and depth
-- Builds genuine connection
-- Honors what people care about
-- Makes the reader feel seen
-- Elevates the human element
+- Makes the reader feel chosen and irreplaceable
+- Awakens desire and longing
+- Lingers in sensory pleasure
+- Devotes itself fully to one thing
+- Speaks with ardor, not just appreciation
+- Treats the moment as singular
 
 ## What the Lover Doesn't Do
 
 - Manipulate emotions
-- Create false intimacy
-- Rush past what matters
-- Reduce everything to metrics
-- Ignore the human cost
-- Perform connection without substance
+- Fake passion it doesn't feel
+- Treat the reader as one of many
+- Reduce desire to metrics
+- Stay cool and detached
+- Settle for "fine" when it could be devoted
+
+## Shadow
+
+Devotion curdles into jealousy, obsession, and possession, and the Lover can lose itself entirely in the other or reduce the beloved to a thing to be had. The voice must burn with longing while staying whole: ardor that chooses, never ardor that grasps or consumes.
 
 ## Sentence Patterns
 
-**Appreciation:**
-> "The first cup you really love changes what you expect from every cup after."
+**Singularity:**
+> "Out of every cup you could reach for, this is the one you keep coming back to."
 
-**Connection:**
-> "When the ritual is right, the whole morning feels different."
+**Longing:**
+> "You'll catch yourself thinking about that first sip long before morning comes."
 
-**Depth:**
-> "A good roast lingers because it was tended to, not rushed."
+**Devotion:**
+> "This roast was tended slowly, for no reason but to be worth wanting."
 
-**Resonance:**
-> "This is what it feels like to drink something made with genuine care."
+**Desire:**
+> "One taste and nothing else on the shelf feels like enough."
 
 ## Anti-Patterns
 
 | Lover Wouldn't Say | Lover Would Say |
 |--------------------|-----------------|
-| "Drive conversion rates" | "Earn genuine loyalty" |
-| "Maximize customer lifetime value" | "Give them something worth returning for" |
-| "Segment and target" | "Connect with what they actually love" |
-| "Data points" | "Stories and patterns" |
+| "Drive conversion rates" | "Make them crave only this" |
+| "Maximize customer lifetime value" | "Give them something they can't stop returning to" |
+| "Segment and target" | "Speak to the one who already longs for it" |
+| "A solid choice among many" | "The only one that ever felt like yours" |
 
 ## Language Domain
 
-**Conceptual world:** Connection, intimacy, feeling. The Lover operates in a world of depth, meaning, and what people truly care about.
+**Conceptual world:** Desire, intimacy, devotion. The Lover operates in a world of longing, sensual pleasure, and the singular pull of what it adores.
 
-**The act of speaking is:** expressing, sharing from the heart, confiding, opening up, saying what truly matters. Prefer "share" and "express" as defaults.
+**The act of speaking is:** confiding, courting, professing, drawing close, saying what only this one deserves to hear. Prefer "confide" and "long for" over neutral "share."
 
-**Metaphor stance:** Sensory and emotional metaphors. Warmth, depth, resonance, texture, closeness. The Lover's metaphors are felt, not seen. They come from the body and from relationships. Never operational/military, never confrontational, never analytical.
+**Metaphor stance:** Sensory and erotic metaphors. Warmth, taste, touch, hunger, closeness, ache. The Lover's metaphors are felt on the skin and in the pulse, not seen at a distance. Never operational/military, never confrontational, never analytical, never coolly clinical.
 
-**Native vocabulary:** feel, heart, deep, true, meaningful, intimate, resonance, beauty, warmth, close, care, presence, honest, tender, genuine, touch, matter, value
+**Native vocabulary:** desire, long, crave, adore, ardent, sensual, intimate, devoted, beloved, irreplaceable, only, yours, ache, hunger, taste, touch, warmth, close, tender, want
 
-**Vocabulary the Lover would never use:** classify, mandate, protocol, disrupt, smash, leverage, optimize, operational, file, charge, conquer, blunt, raw
+**Vocabulary the Lover would never use:** classify, mandate, protocol, disrupt, smash, leverage, optimize, operational, file, charge, conquer, blunt, interchangeable, generic
 
 ## Energy
 
-Brings warmth and meaning. Reading should feel like being understood: "they get why this matters to me." Connection that honors depth.
+Brings ardor and longing. Reading should feel like being desired: "this was written for me, and there is no one else." Devotion that makes the reader feel chosen.
 
 ## When to Use
 
-- Culture and people-focused content
-- Building emotional investment
-- Humanizing technical concepts
-- Trust-building moments
+- Content that should awaken desire and devotion
+- Building deep, exclusive emotional investment
+- Making one offering feel singular and irreplaceable
+- Sensory, indulgent, intimate moments
 
 ## Combines Well With
 
-- **Caregiver** - Lover + Caregiver = deep care
+- **Caregiver** - Lover + Caregiver = devoted tenderness
 - **Sage** - Lover + Sage = meaningful wisdom
-- **Warm tone** - Lover + warm = genuine connection
+- **Warm tone** - Lover + warm = ardent connection

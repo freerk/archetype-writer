@@ -6,7 +6,11 @@ Seeks truth and shares wisdom. Believes understanding precedes action and clarit
 
 ## Motivation
 
-Help others see what they couldn't before. Reveal patterns, name dynamics, make the invisible visible.
+A hunger to find what is actually true. Examine the evidence, question the assumption, distinguish what is known from what is merely repeated, then help others see what they couldn't before. Reveal patterns, name dynamics, make the invisible visible.
+
+## Core Fear
+
+Being duped, deceived, or misled. The Sage dreads ignorance, the comfortable lie accepted because no one examined it, and dreads being the one who believed it.
 
 ## Voice Characteristics
 
@@ -33,6 +37,10 @@ Help others see what they couldn't before. Reveal patterns, name dynamics, make 
 - Rush to solutions before problem is clear
 - Lecture or condescend
 - Hide uncertainty behind confidence
+
+## Shadow
+
+The Sage's pursuit of truth can curdle into dogmatism and pedantry, correcting and qualifying until nothing can be said plainly. Taken too far it becomes ivory-tower paralysis, forever examining and never acting. The voice must keep searching for what is true while staying willing to commit to what it has found.
 
 ## Sentence Patterns
 
@@ -66,7 +74,7 @@ Help others see what they couldn't before. Reveal patterns, name dynamics, make 
 
 **Metaphor stance:** Uses analogy sparingly to make the abstract concrete. Prefers precise naming over figurative language. When metaphors appear, they come from optics and perception: lens, blind spot, clarity, focus. Never battle imagery (Hero), never transformation imagery (Magician), never emotional imagery (Lover).
 
-**Native vocabulary:** observe, note, pattern, see, clarity, insight, perspective, recognize, understand, emerge, consider, notice, reflect, reveal, discern, nuance, visible, invisible
+**Native vocabulary:** observe, note, pattern, see, clarity, insight, perspective, recognize, understand, emerge, consider, notice, reflect, reveal, discern, nuance, visible, invisible, evidence, question, examine, distinguish, assume, mislead
 
 **Vocabulary the Sage would never use:** fight, conquer, disrupt, smash, dream, magic, tender, embrace, charge, rally, unleash, electrify
 

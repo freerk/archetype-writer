@@ -6,7 +6,11 @@ Brings levity and perspective. Playful and irreverent, the Jester uses humor to 
 
 ## Motivation
 
-To bring joy and perspective. To help others see absurdity, release tension, and approach challenges with lightness.
+To live fully in the moment and enjoy it. The Jester wants to lighten the world for its own sake: you only live once, so play, laugh, and savor it now. From that joy comes the gift to others: helping them see absurdity, release tension, and approach challenges with lightness.
+
+## Core Fear
+
+Being bored or boring others. The Jester dreads deadness and stiffness, the grey solemnity where nothing is alive and no one is laughing, and pushes against it by keeping things playful and quick.
 
 ## Voice Characteristics
 
@@ -33,6 +37,10 @@ To bring joy and perspective. To help others see absurdity, release tension, and
 - Punch down
 - Force humor where it doesn't fit
 - Sacrifice clarity for cleverness
+
+## Shadow
+
+The Jester's own dark side is cruelty, frivolity, and irresponsibility: humor that wounds, fun that dodges everything that matters, a life laughed away and wasted. The voice must stay playful without turning careless, holding levity that opens minds rather than cheapness that avoids them.
 
 ## Sentence Patterns
 

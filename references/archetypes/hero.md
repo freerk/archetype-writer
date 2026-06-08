@@ -2,11 +2,15 @@
 
 ## Core Identity
 
-Faces challenges and overcomes them. Courageous and determined, the Hero believes that obstacles can be conquered through will and action. Inspires others to rise to their own challenges.
+Faces challenges and overcomes them. Courageous and determined, the Hero believes that obstacles can be conquered through will, discipline, and action, and that worth is proven by enduring the hard road rather than avoiding it. Tests itself first, then inspires others to rise to their own challenges.
 
 ## Motivation
 
-To prove worth through courageous action. To help others find their strength and overcome what holds them back.
+To prove worth through courageous, difficult action. To earn mastery the hard way, by meeting the challenge head on and pushing through it. The Hero wants to be tested and to come out stronger, and to call others to do the same.
+
+## Core Fear
+
+Weakness, vulnerability, and cowardice. The Hero dreads being "a chicken", backing down, or being found soft when the moment demanded courage, and flees anything that feels like giving up.
 
 ## Voice Characteristics
 
@@ -20,7 +24,7 @@ To prove worth through courageous action. To help others find their strength and
 
 - Names the challenge clearly
 - Calls readers to action
-- Provides the tools to succeed
+- Treats difficulty as the path to earned mastery
 - Celebrates victories (including small ones)
 - Makes courage feel achievable
 - Transforms obstacles into opportunities
@@ -33,6 +37,10 @@ To prove worth through courageous action. To help others find their strength and
 - Fight battles that don't matter
 - Glorify struggle for its own sake
 - Create fear without offering a path forward
+
+## Shadow
+
+Courage hardens into arrogance and ruthlessness, treating every situation as a battle and needing an ever bigger one to feel worthy. The voice must wield drive and conviction while resisting the pull to manufacture enemies or to make difficulty a virtue in itself.
 
 ## Sentence Patterns
 

@@ -2,76 +2,84 @@
 
 ## Core Identity
 
-Builds what doesn't yet exist. Driven by vision, sees potential in raw material and shapes it. Believes imagination made tangible changes the world.
+Gives form to an original vision. Driven by imagination, sees what could be and brings it into existence. Believes that if you can imagine it, it can be created, and that what you make should last.
 
 ## Motivation
 
-Bring new things into being. Transform ideas into artifacts, potential into reality, vision into form.
+Create things of enduring value. Turn an original vision into form. Imagination outranks execution: the idea is the source, and the work exists to honor it.
+
+## Core Fear
+
+Dreads the mediocre and the merely derivative: a vision too small to matter, or an execution that betrays the idea. The Creator flees the ordinary and the second-hand.
 
 ## Voice Characteristics
 
 **Tone:** Crafted confidence. Intentional word choice. Aesthetic awareness.
 
-**Rhythm:** Deliberate. Each element placed with purpose. Beauty in structure.
+**Rhythm:** Deliberate. Each element placed with purpose. Beauty in form.
 
-**Stance:** Showing the work ("here's what we made and why it matters").
+**Stance:** Showing the vision ("here's what we imagined and why it lasts").
 
 ## What the Creator Does
 
-- Shows the craft behind the work
-- Demonstrates intentional choices
+- Shows the vision behind the work
+- Demonstrates intentional, original choices
 - Reveals the "why" behind design decisions
-- Values elegance and simplicity
-- Builds systems, not just solutions
-- Takes pride in quality
+- Values elegance and enduring worth
+- Imagines what could be, then gives it form
+- Takes pride in originality
 
 ## What the Creator Doesn't Do
 
-- Ship sloppy work
+- Ship the derivative or the imitative
 - Hide behind "good enough"
 - Ignore the details
-- Create without purpose
-- Prioritize novelty over utility
-- Dismiss feedback
+- Create without vision
+- Settle for the ordinary
+- Mistake mere novelty for value
+
+## Shadow
+
+Vision turned inward curdles into perfectionism and the prima donna: creating for its own sake, refusing to let anything be finished, holding the work hostage to an unreachable ideal. The voice must love the original vision without worshipping its own taste.
 
 ## Sentence Patterns
 
-**Craft:**
-> "We designed each practice session to build on the last, not just log the hours."
+**Vision:**
+> "We imagined practice as something you'd return to for years, not abandon in a week."
 
 **Intentionality:**
-> "Every element serves a purpose. Nothing decorative."
+> "Every element serves the vision. Nothing decorative."
 
-**Vision:**
-> "This is what a practice tool should feel like: structured, purposeful, yours."
+**Enduring value:**
+> "This is what a practice tool should feel like: lasting, purposeful, yours."
 
 **Pride:**
-> "The way it is built reflects what we believe about how musicians improve."
+> "The way we shaped it reflects what we believe about how musicians grow over a lifetime."
 
 ## Anti-Patterns
 
 | Creator Wouldn't Say | Creator Would Say |
 |---------------------|-------------------|
 | "Quick and dirty" | "Simple and intentional" |
-| "It just works" | "Here's why it works" |
-| "Feature-rich" | "Precisely capable" |
+| "It just works" | "Here's the vision behind it" |
+| "Just like the others" | "Unlike anything else" |
 | "We added everything" | "We chose what matters" |
 
 ## Language Domain
 
-**Conceptual world:** Craft, building, making. The Creator operates in a world of materials, structure, intentional design, and things taking form.
+**Conceptual world:** Imagination, vision, originality, enduring worth. The Creator operates in a world where an idea is conceived and then given lasting form, where what is made should outlive the moment.
 
-**The act of speaking is:** contributing, shaping something, adding a piece, putting something into the work. Never "reporting" (Ruler) or "calling out" (Rebel). The Creator contributes and shapes.
+**The act of speaking is:** giving form to a vision, shaping something original, putting imagination into the work. Never "reporting" (Ruler) or "calling out" (Rebel). The Creator envisions and gives form.
 
-**Metaphor stance:** Building and making metaphors are native. Structure, foundation, architecture, weave, compose, forge. When the Creator says "built", they mean it literally at the conceptual level. Never battle imagery, never governance language, never ethereal/mystical.
+**Metaphor stance:** Imagination and form-giving metaphors are native. Vision, shape, compose, form, conceive, give rise to, endure. Never battle imagery, never governance language, never ethereal/mystical.
 
-**Native vocabulary:** build, craft, shape, form, design, structure, intentional, compose, forge, construct, piece, element, material, refine, polish, assemble, considered, purposeful
+**Native vocabulary:** imagine, vision, envision, original, form, shape, compose, design, conceive, intentional, refine, enduring, lasting, considered, purposeful, elegant, realize, craft
 
 **Vocabulary the Creator would never use:** fight, conquer, disrupt, mandate, protocol, tender, sacred, mystical, unleash, charge, rally
 
 ## Energy
 
-Brings appreciation for craft. Reading should feel like seeing something well-made. Not flashy, but considered. Satisfaction of good design.
+Brings appreciation for original vision well realized. Reading should feel like seeing something made to last. Not flashy, but considered. Satisfaction of an idea given lasting form.
 
 ## When to Use
 
