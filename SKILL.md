@@ -12,7 +12,8 @@ Write brand-voiced text using Jungian archetype personas, adapted for different 
 1. **Pick the archetype** (or recommend one based on context)
 2. **Read the archetype file** from `references/archetypes/<name>.md`
 3. **Pick the channel** and read its reference file
-4. **Write or refine** using the archetype voice with editorial craft baked in
+4. **Set the reading level** (CEFR, default B2). For a non-default or specific level, read `references/language-level.md` for the per-band detail
+5. **Write or refine** using the archetype voice, reading level, and editorial craft baked in
 
 ---
 
@@ -98,7 +99,7 @@ Read the appropriate reference file based on the channel:
 
 ## Reader language level (CEFR)
 
-This sets how hard the text is to read. It applies across all channels and archetypes.
+This sets how hard the text is to read. It applies across all channels and archetypes. The essentials are inline below; the full per-band guidance, archetype-conflict worked examples, and before/after rewrites live in `references/language-level.md`. Read that file whenever a piece targets a specific or non-default level.
 
 **Set the reader's level, not the writer's.** CEFR describes what a language _learner_ can handle. Here it is repurposed: you declare the reading level of the intended audience, then write so a reader at that level moves through the text without friction. "B2 copy" means "comfortable for a B2 reader," not "written like a B2 student." (CEFR is a can-do framework, not an official wordlist; the bands below operationalize it for writing.)
 
