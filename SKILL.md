@@ -1,6 +1,6 @@
 ---
 name: archetype-writer
-description: "MANDATORY for any task where the deliverable is prose, not code. Before writing or rewriting ANY human-readable text - copy, headlines, blog posts, LinkedIn posts, error messages, pricing pages, product pages, announcements, UI strings, tooltips, onboarding flows, emails - you MUST read this skill first. It contains voice frameworks and editorial methods that shape how you write. Trigger signals: user asks you to write or rewrite text, improve a draft, fix tone or voice, make something less flat/dry/corporate, add consistency across messages, craft copy for any channel, or mentions archetypes (Sage, Rebel, Creator, Explorer, etc.) or editorial operations (CUT/COMPRESS/HOOK/VARY/EDGE); asks to set a reading level, make text easier or harder to read, or readable for non-native English speakers, or mentions CEFR levels (A2, B1, B2, C1, C2). If the user's request produces words people read rather than code people execute, this skill applies. Skip only for: code, tests, database work, visual design, or factual research questions."
+description: "MANDATORY for writing or rewriting any human-readable prose, not code: copy, headlines, posts, UI strings, emails, errors. Voice via Jungian archetypes, channel-tuned, at a CEFR reading level."
 ---
 
 # Archetype Writer
