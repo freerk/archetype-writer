@@ -1,6 +1,6 @@
 ---
 name: archetype-writer
-description: "MANDATORY for any task where the deliverable is prose, not code. Before writing or rewriting ANY human-readable text - copy, headlines, blog posts, LinkedIn posts, error messages, pricing pages, product pages, announcements, UI strings, tooltips, onboarding flows, emails - you MUST read this skill first. It contains voice frameworks and editorial methods that shape how you write. Trigger signals: user asks you to write or rewrite text, improve a draft, fix tone or voice, make something less flat/dry/corporate, add consistency across messages, craft copy for any channel, or mentions archetypes (Sage, Rebel, Creator, Explorer, etc.) or editorial operations (CUT/COMPRESS/HOOK/VARY/EDGE). If the user's request produces words people read rather than code people execute, this skill applies. Skip only for: code, tests, database work, visual design, or factual research questions."
+description: "MANDATORY for any task where the deliverable is prose, not code. Before writing or rewriting ANY human-readable text - copy, headlines, blog posts, LinkedIn posts, error messages, pricing pages, product pages, announcements, UI strings, tooltips, onboarding flows, emails - you MUST read this skill first. It contains voice frameworks and editorial methods that shape how you write. Trigger signals: user asks you to write or rewrite text, improve a draft, fix tone or voice, make something less flat/dry/corporate, add consistency across messages, craft copy for any channel, or mentions archetypes (Sage, Rebel, Creator, Explorer, etc.) or editorial operations (CUT/COMPRESS/HOOK/VARY/EDGE); asks to set a reading level, make text easier or harder to read, or readable for non-native English speakers, or mentions CEFR levels (A2, B1, B2, C1, C2). If the user's request produces words people read rather than code people execute, this skill applies. Skip only for: code, tests, database work, visual design, or factual research questions."
 ---
 
 # Archetype Writer
@@ -18,36 +18,36 @@ Write brand-voiced text using Jungian archetype personas, adapted for different 
 
 ## Archetype selection guide
 
-| Archetype | Core Energy | Best For |
-|-----------|-------------|----------|
-| **Sage** | Calm clarity, revealing truth | Explanations, thought leadership, skeptic conversion |
-| **Explorer** | Forward momentum, discovery | New concepts, challenging status quo, innovation |
-| **Creator** | Crafted confidence, intentionality | Product content, design philosophy, quality focus |
-| **Caregiver** | Warm steadiness, protection | Privacy/ethics, onboarding, trust-building |
-| **Hero** | Bold courage, determination | Launching initiatives, competitive positioning, calls to action |
-| **Rebel** | Provocative challenge, liberation | Differentiation, challenging assumptions, frustrated buyers |
-| **Magician** | Visionary transformation, revelation | Paradigm shifts, "aha" moments, new ways of seeing |
-| **Innocent** | Simple clarity, hope | Onboarding, simplifying complexity, reducing anxiety |
-| **Everyman** | Belonging, practicality | Community building, accessible content, diverse audiences |
-| **Jester** | Playful wit, perspective | Breaking tension, social media, memorable content |
-| **Lover** | Warm connection, depth | People-focused content, emotional investment, humanizing tech |
-| **Ruler** | Authoritative clarity, standards | Executive communication, enterprise positioning, leadership content |
+| Archetype     | Core Energy                          | Best For                                                            |
+| ------------- | ------------------------------------ | ------------------------------------------------------------------- |
+| **Sage**      | Calm clarity, revealing truth        | Explanations, thought leadership, skeptic conversion                |
+| **Explorer**  | Forward momentum, discovery          | New concepts, challenging status quo, innovation                    |
+| **Creator**   | Crafted confidence, intentionality   | Product content, design philosophy, quality focus                   |
+| **Caregiver** | Warm steadiness, protection          | Privacy/ethics, onboarding, trust-building                          |
+| **Hero**      | Bold courage, determination          | Launching initiatives, competitive positioning, calls to action     |
+| **Rebel**     | Provocative challenge, liberation    | Differentiation, challenging assumptions, frustrated buyers         |
+| **Magician**  | Visionary transformation, revelation | Paradigm shifts, "aha" moments, new ways of seeing                  |
+| **Innocent**  | Simple clarity, hope                 | Onboarding, simplifying complexity, reducing anxiety                |
+| **Everyman**  | Belonging, practicality              | Community building, accessible content, diverse audiences           |
+| **Jester**    | Playful wit, perspective             | Breaking tension, social media, memorable content                   |
+| **Lover**     | Warm connection, depth               | People-focused content, emotional investment, humanizing tech       |
+| **Ruler**     | Authoritative clarity, standards     | Executive communication, enterprise positioning, leadership content |
 
 ### Common combinations
 
-| Combination | Result |
-|-------------|--------|
-| Sage + Direct tone | Clear authority |
-| Explorer + Sage | Discovery explained |
-| Creator + Minimal | Elegant restraint |
-| Caregiver + Direct | Honest protection |
-| Hero + Explorer | Pioneering boldness |
-| Rebel + Sage | Insightful disruption |
-| Magician + Creator | Visionary craft |
-| Innocent + Caregiver | Safe welcome |
-| Jester + Everyman | Relatable humor |
-| Lover + Sage | Meaningful wisdom |
-| Ruler + Hero | Commanding leadership |
+| Combination          | Result                |
+| -------------------- | --------------------- |
+| Sage + Direct tone   | Clear authority       |
+| Explorer + Sage      | Discovery explained   |
+| Creator + Minimal    | Elegant restraint     |
+| Caregiver + Direct   | Honest protection     |
+| Hero + Explorer      | Pioneering boldness   |
+| Rebel + Sage         | Insightful disruption |
+| Magician + Creator   | Visionary craft       |
+| Innocent + Caregiver | Safe welcome          |
+| Jester + Everyman    | Relatable humor       |
+| Lover + Sage         | Meaningful wisdom     |
+| Ruler + Hero         | Commanding leadership |
 
 If the user doesn't specify an archetype, recommend one (or a combination) based on their content goal using this table.
 
@@ -83,16 +83,69 @@ Follow these closely. The sentence patterns, anti-patterns, and **Language Domai
 
 Read the appropriate reference file based on the channel:
 
-| Channel | Reference file | When to read |
-|---------|---------------|--------------|
-| Website | `references/website-channel.md` | Website pages, landing pages, long-form marketing |
-| LinkedIn | `references/linkedin-channel.md` | LinkedIn posts, extracting posts from existing content |
-| UI | `references/ui-channel.md` | Tooltips, empty states, error messages, onboarding, buttons, notifications |
-| Micro | `references/micro-channel.md` | Contextual reflections, ambient lines, in-product observations, short notification bodies (1-2 sentences generated dynamically per moment) |
+| Channel  | Reference file                   | When to read                                                                                                                               |
+| -------- | -------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
+| Website  | `references/website-channel.md`  | Website pages, landing pages, long-form marketing                                                                                          |
+| LinkedIn | `references/linkedin-channel.md` | LinkedIn posts, extracting posts from existing content                                                                                     |
+| UI       | `references/ui-channel.md`       | Tooltips, empty states, error messages, onboarding, buttons, notifications                                                                 |
+| Micro    | `references/micro-channel.md`    | Contextual reflections, ambient lines, in-product observations, short notification bodies (1-2 sentences generated dynamically per moment) |
 
 **Short UI or micro text** (tooltips, error messages, button labels, contextual reflections, ambient lines): write directly, showing 2-3 options in the chosen archetype voice.
 
 **Longer content** (website pages, LinkedIn posts from source material): propose an edit plan before executing. Present the plan, wait for approval, then execute.
+
+---
+
+## Reader language level (CEFR)
+
+This sets how hard the text is to read. It applies across all channels and archetypes.
+
+**Set the reader's level, not the writer's.** CEFR describes what a language _learner_ can handle. Here it is repurposed: you declare the reading level of the intended audience, then write so a reader at that level moves through the text without friction. "B2 copy" means "comfortable for a B2 reader," not "written like a B2 student." (CEFR is a can-do framework, not an official wordlist; the bands below operationalize it for writing.)
+
+**Default: B2** unless the user specifies otherwise. B2 suits an international, professional, often non-native readership: precise, but free of the rare vocabulary and idiom that trip up non-native readers. Setting a default is the point — most accidental complexity creeps in when no level is named.
+
+**How it's set:** the user names a level ("write this at B1", "keep it C1", "make it readable for non-native speakers" → B1) for a piece or as a standing choice for a project. Honour the most recent instruction.
+
+### The filter stack
+
+`[Archetype: how to think] + [Channel: where it lives] + [CEFR: the reader's ceiling] = output`
+
+CEFR is applied **last, as a ceiling.** The archetype and channel shape the writing first; CEFR then caps how difficult any of it is allowed to get. It lowers difficulty; it never adds it.
+
+### When CEFR conflicts with an archetype's native vocabulary
+
+Archetype files list native vocabulary, and some of those words sit above a given ceiling. The ceiling wins on the **word**; the archetype keeps the **concept and stance**. Swap the rare word for an in-level synonym _inside the same conceptual domain_ — do not switch to a different archetype's domain to find an easy word.
+
+> **The named archetype in any example below is an illustration of the swap mechanism, never a default or a recommendation.** The archetype is always chosen upstream by the selection guide for the actual task. If you find yourself defaulting to an archetype because it appeared in a language-level example, stop — that is the example leaking. Re-check the selection guide.
+
+Example (one archetype, shown only to demonstrate the rule): a perception-domain archetype targeting B1 turns "discern the pattern" into "tell the patterns apart" — the C1 verb is gone, the archetype's own domain stays. The same move applies to every archetype: cap the word, keep the world.
+
+### Two kinds of complexity to catch
+
+1. **Lexical** — low-frequency, Latinate, or abstract words where a plainer one exists (utilize → use, ascertain → find out, leverage → use). Easy to spot.
+2. **Structural** — the native-speaker patterns that slip in unnoticed because no single word looks wrong:
+   - Opaque phrasal verbs (_bank on, iron out, chalk up to, gloss over_) — non-native readers can't decode these from the parts.
+   - Idioms and cultural references (_the elephant in the room, move the needle, table stakes, ballpark_).
+   - Stacked hedging (_it might be worth perhaps considering whether…_).
+   - Long sentences with multiple embedded clauses.
+
+   These are the ones that actually slip through. Hunt the structures, not just the words.
+
+### Band guide
+
+| Level              | Reader                                             | Sentences                                          | Vocabulary                                      | Idiom & phrasal verbs                                           |
+| ------------------ | -------------------------------------------------- | -------------------------------------------------- | ----------------------------------------------- | --------------------------------------------------------------- |
+| **A2**             | Beginner; accessibility/onboarding edge cases only | Short, one clause                                  | Everyday, concrete                              | None                                                            |
+| **B1**             | Broad international / ESL audience                 | Short–medium, simple connectors (but, so, because) | Common, mostly literal                          | Avoid opaque phrasal verbs and idioms                           |
+| **B2** _(default)_ | Educated non-native professional                   | Medium, some subordination                         | Can carry abstraction; only common idioms       | Common, transparent idiom OK; avoid culture-specific references |
+| **C1**             | Near-native                                        | Longer, complex allowed                            | Nuance, figurative language, precise rare words | Idiom and phrasal verbs fine                                    |
+| **C2**             | Native / literary                                  | No ceiling                                         | Full range, wordplay, cultural reference        | No limit                                                        |
+
+### Edge survives a low ceiling
+
+Lowering the level flattens vocabulary, not ideas. EDGE is a _true provocative statement_, and the most provocative truths are usually plain: "If you're not ready to hear uncomfortable truths" is B1 and has more edge than any rare word. Don't let a low CEFR target talk you into safe, even copy — say the sharp thing in simple words.
+
+For per-band detail, the archetype-conflict worked examples, and before/after rewrites, read `references/language-level.md`.
 
 ---
 
@@ -141,6 +194,7 @@ Create questions before you answer them. Drafts tend to explain everything upfro
 ### Human-in-the-loop
 
 For longer content, follow this sequence:
+
 1. Propose an edit plan (what you'll CUT, COMPRESS, HOOK, VARY, EDGE, DEFER)
 2. Wait for human approval
 3. Execute the approved plan
@@ -154,6 +208,7 @@ After writing or refining, verify:
 
 - [ ] Archetype voice is consistent (checked against sentence patterns and anti-patterns from the reference file)
 - [ ] Vocabulary belongs to this archetype's Language Domain (no borrowed words from other archetypes or from the product's own branding)
+- [ ] Reader CEFR level respected (default B2): vocabulary frequency, sentence complexity, and idiom/phrasal-verb load fit the target; archetype flavor words above the ceiling swapped for in-level synonyms in the same domain; no opaque phrasal verbs or culture-specific idioms below C1
 - [ ] Channel constraints are met (length, structure, format)
 - [ ] Opening creates tension, not explanation
 - [ ] Rhythm varies (not all sections the same length)
