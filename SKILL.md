@@ -12,7 +12,7 @@ Write brand-voiced text using Jungian archetype personas, adapted for different 
 1. **Pick the archetype** (or recommend one based on context)
 2. **Read the archetype file** from `references/archetypes/<name>.md`
 3. **Pick the channel** and read its reference file
-4. **Set the reading level** (CEFR, default B2). For a non-default or specific level, read `references/language-level.md` for the per-band detail
+4. **Read `references/language-level.md` and apply the reading level** (CEFR, default B2). Do this for every piece, including the default: B2 is not self-evident, and the band guide plus the structural-complexity checks apply at every level
 5. **Write or refine** using the archetype voice, reading level, and editorial craft baked in
 
 ---
@@ -99,7 +99,7 @@ Read the appropriate reference file based on the channel:
 
 ## Reader language level (CEFR)
 
-This sets how hard the text is to read. It applies across all channels and archetypes. The essentials are inline below; the full per-band guidance, archetype-conflict worked examples, and before/after rewrites live in `references/language-level.md`. Read that file whenever a piece targets a specific or non-default level.
+This sets how hard the text is to read. It applies across all channels and archetypes. The essentials are summarized inline below, but always read `references/language-level.md` before writing or refining prose, including at the default B2: it carries the per-band detail, the structural-complexity checks, the archetype-conflict worked examples, and the before/after rewrites that this summary only points at. Do not rely on a general sense of what a CEFR level means.
 
 **Set the reader's level, not the writer's.** CEFR describes what a language _learner_ can handle. Here it is repurposed: you declare the reading level of the intended audience, then write so a reader at that level moves through the text without friction. "B2 copy" means "comfortable for a B2 reader," not "written like a B2 student." (CEFR is a can-do framework, not an official wordlist; the bands below operationalize it for writing.)
 
