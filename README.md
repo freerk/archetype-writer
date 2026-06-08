@@ -15,8 +15,9 @@ A persona is a way of thinking, not a costume. Each archetype shapes how the wri
 - **Twelve archetypes.** Sage, Explorer, Creator, Caregiver, Hero, Rebel, Magician, Innocent, Everyman, Jester, Lover, Ruler. Each one is a full voice definition: core motivation, tone and rhythm, sentence patterns to mimic, anti-patterns to avoid, and a **Language Domain** that fixes the native vocabulary and the words the archetype would never say.
 - **Four channels.** Website, LinkedIn, UI microcopy, and Micro (ambient, dynamically generated lines). The same archetype sounds different in a landing page than in an error message, so the channel file sets the constraints.
 - **Six editorial operations.** CUT, COMPRESS, HOOK, VARY, EDGE, DEFER. These are what separate copy that is accurate from copy that has energy.
+- **Five reading levels (CEFR).** A2 through C2. This sets how hard the finished text is to read, so the same archetype and channel can be tuned for a broad international audience or a near-native one. It is applied as a ceiling on top of everything else: it caps difficulty, it never adds it. The default is B2, and the archetype keeps its voice even when a rare word is swapped for a plainer one.
 
-The model is simple: `[Archetype: how to think] + [Channel: where it goes] + [Editorial craft: how to refine] = consistent, compelling output`.
+The model is simple: `[Archetype: how to think] + [Channel: where it goes] + [Editorial craft: how to refine] = consistent, compelling output`, with the reading level capping how hard any of it reads.
 
 ### Pick an archetype
 
@@ -79,11 +80,11 @@ In Claude.ai, go to Customize → Skills → **+ Create skill**, upload the zip,
 
 ChatGPT has no skill system, so you supply the same files as context. There are three ways, from most durable to most ad hoc.
 
-**1. A Project (recommended).** Create a ChatGPT Project, then paste the contents of `SKILL.md` into the project instructions. Upload the archetype files you use most and the channel files from `references/` as project files. Every chat in that project then writes with the framework available.
+**1. A Project (recommended).** Create a ChatGPT Project, then paste the contents of `SKILL.md` into the project instructions. Upload the archetype files you use most and the channel files from `references/` as project files. Include `references/language-level.md` if you want to set a reading level, since `SKILL.md` points to it for the per-level detail. Every chat in that project then writes with the framework available.
 
 **2. A custom GPT.** Build a GPT, put `SKILL.md` in the instructions, and add the `references/` files as Knowledge. Share it with anyone who needs the same voice.
 
-**3. Paste as context.** For a one-off, paste `SKILL.md` plus the one archetype file and one channel file you need at the top of the chat, then make your request. Lighter, but you repeat it each session.
+**3. Paste as context.** For a one-off, paste `SKILL.md` plus the one archetype file and one channel file you need at the top of the chat, then make your request. Add `language-level.md` too if you are targeting a specific reading level. Lighter, but you repeat it each session.
 
 A prompt that works well once the context is loaded:
 
@@ -124,6 +125,7 @@ references/
   linkedin-channel.md             # LinkedIn posts and extraction from source material
   ui-channel.md                   # Tooltips, empty states, errors, buttons, onboarding
   micro-channel.md                # Ambient, per-moment one and two line copy
+  language-level.md               # Reader reading-level control (CEFR A2 to C2)
 ```
 
 Start with `SKILL.md`. Everything else is loaded on demand from there.
