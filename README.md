@@ -4,7 +4,7 @@ Most copy is correct. Very little of it is compelling. The gap between the two i
 
 Archetype Writer is a skill for AI assistants that closes that gap. It writes brand-voiced text using twelve Jungian archetype personas, adapts each persona to the channel it lands in, and applies a small set of editorial operations that turn a thorough draft into something worth reading.
 
-It works as a [Claude Code](#use-in-claude-code) skill and as [context for ChatGPT](#use-in-chatgpt).
+It works as a [Claude Code](#use-in-claude-code) skill, in the [Claude.ai app](#use-in-the-claudeai-app), and as [context for ChatGPT](#use-in-chatgpt).
 
 ---
 
@@ -62,6 +62,16 @@ That is the whole setup. From then on, when you ask Claude to write or rewrite p
 > Write three error-message variants for an expired session. Caregiver, UI channel.
 
 The skill handles longer content with a human in the loop: it proposes an edit plan (what it will CUT, COMPRESS, HOOK, and so on), waits for your approval, then executes.
+
+---
+
+## Use in the Claude.ai app
+
+The Claude.ai app installs skills as a `.zip`. Download the latest release:
+
+[**Download archetype-writer.zip**](https://github.com/freerk/archetype-writer/releases/latest/download/archetype-writer.zip)
+
+In Claude.ai, go to Customize → Skills → **+ Create skill**, upload the zip, then enable it. From then on it triggers automatically when you ask Claude to write or rewrite prose, or you can name the archetype and channel directly as in the examples above.
 
 ---
 
