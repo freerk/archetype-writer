@@ -141,12 +141,12 @@ Example (one archetype, shown only to demonstrate the rule): a perception-domain
 
 ### Band guide
 
-| Level              | Reader                                             | Sentences                                               | Vocabulary                                      | Idiom & opaque constructions                                           |
+| Level              | Reader                                             | Sentences                                               | Vocabulary                                      | Idiom & opaque constructions                                    |
 | ------------------ | -------------------------------------------------- | ------------------------------------------------------- | ----------------------------------------------- | --------------------------------------------------------------- |
 | **A2**             | Beginner; accessibility/onboarding edge cases only | Short, one clause                                       | Everyday, concrete                              | None                                                            |
-| **B1**             | Broad international / second-language audience                 | Short–medium, simple connectors (and, but, so, because) | Common, mostly literal                          | Avoid opaque constructions and idioms                           |
+| **B1**             | Broad international / second-language audience     | Short–medium, simple connectors (and, but, so, because) | Common, mostly literal                          | Avoid opaque constructions and idioms                           |
 | **B2** _(default)_ | Educated non-native professional                   | Medium, some subordination                              | Can carry abstraction; only common idioms       | Common, transparent idiom OK; avoid culture-specific references |
-| **C1**             | Near-native                                        | Longer, complex allowed                                 | Nuance, figurative language, precise rare words | Idiom and opaque constructions fine                                    |
+| **C1**             | Near-native                                        | Longer, complex allowed                                 | Nuance, figurative language, precise rare words | Idiom and opaque constructions fine                             |
 | **C2**             | Native / literary                                  | No ceiling                                              | Full range, wordplay, cultural reference        | No limit                                                        |
 
 ### Edge survives a low ceiling
