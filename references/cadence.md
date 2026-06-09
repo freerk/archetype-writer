@@ -14,13 +14,13 @@ A language model carries a strong prior over what insightful prose _sounds like_
 
 The figures themselves are real and old. Antithesis, tricolon, anaphora, the punchy fragment: every good essayist uses them. The problem is never that the device exists. The problem is that the model applies it _by default_, as the standard beat, so every section closes the same way and the sameness reads as machine-made.
 
-**Predictability is the tell, not the device.** Any figure becomes a signature the moment it is the default rhythm.
+**Predictability is the tell, not the device.** Any figure becomes a signature the moment it is the default rhythm. The reverse matters just as much: a figure used once, where the content wants it, is not a tell. Every device below is legitimate. The power of three, the well-placed fragment, even the occasional reversal are tools good writers reach for on purpose. This layer is not a banlist. It catches a device working _as the default beat_, and nothing else.
 
 This is structural complexity, the same family as the structural patterns in `language-level.md`. No single word is wrong, so a reread on vocabulary misses it. You have to hunt the _shape_.
 
 ## The catalog
 
-For each: the pattern, why it reads as machine, the fix, and a budget.
+For each: the pattern, why it reads as machine, the fix, and a budget. Read every budget as a judgment about whether the device was earned here, not as a quota to drive to zero. Zero is its own tell (see _The opposite ditch_).
 
 ### 1. The negation reveal
 
@@ -30,7 +30,7 @@ _Why it reads as machine:_ it manufactures the feeling of insight by setting up 
 
 _The fix:_ say Y plainly without the negated setup. If Y won't stand on its own, the reversal was hiding the absence of a point (see "the co-occurrence" below).
 
-_Budget:_ at most one per piece. **Never the final sentence.**
+_Budget:_ sparing, roughly one per piece. The closing sentence is its highest-risk position, the single most common machine ending. If you close on one, it must do something the plain version cannot.
 
 ### 2. The triad with the twist
 
@@ -40,7 +40,7 @@ _Why it reads as machine:_ the rule of three is so well worn that the "twist on 
 
 _Fix:_ use two, or use four, or make the list flat and put the surprise in its own sentence.
 
-_Budget:_ one per piece, and do not engineer the third item to be the punchline.
+_Budget:_ fine when the content genuinely holds three. The check is not "did I use three" but "did three items already exist, or did I reach for the shape and invent the third to fill it."
 
 ### 3. Anaphora stacking
 
@@ -80,7 +80,7 @@ _Why it reads as machine:_ it signals "essay complete" with a neat ribbon. Real 
 
 _Fix:_ let the title phrase pay off once, somewhere in the body, not at the close. End on the next implication, not on the opening.
 
-_Budget:_ zero at the close.
+_Budget:_ its strongest risk is at the very close. Let the title phrase pay off once earlier in the body rather than returning to it as the last line.
 
 ## The co-occurrence rule
 
@@ -115,12 +115,38 @@ Tells: a forced metaphor reaching for depth ("one idea wearing two coats"); anap
 
 The point is the same. The borrowed meter is gone.
 
+## The opposite ditch
+
+There are two ways to fail this layer, not one. The first is the machine beat: every section snapping shut the same way. The second is overcorrection: a writer so wary of the devices that the prose goes flat and careful, every figure scrubbed out, no sentence allowed to land hard. Over-scrubbed prose is also a tell. It reads as someone writing while watching their own hands.
+
+Driving every device to zero always passes a banlist, so it is the tempting move, and it is the wrong one. The target is not the absence of figures. It is figures that earn their place. If a draft has no rhythm anywhere, no sentence that lands, no shape at all, it has fallen into the second ditch and needs a device put back, not taken out.
+
+## When a flagged device is the archetype's native move
+
+The budgets above assume the flagged figure is generic decoration. One case breaks that assumption: when the device is the active archetype's own signature move at the sentence level. Then driving it toward the budget does not clean the prose, it erases the voice.
+
+> The archetype named below is an illustration of the mechanism, not a default or a recommendation. The archetype for any task is chosen upstream by the selection guide. If output starts drifting toward one archetype because it appeared here, that is the example leaking, and the fix is in the selection guide, not here.
+
+The clear case is the negation reveal under a Sage voice. Sage exists to reframe: everyone sees X, here is what is underneath. The negation reveal ("not X, it is Y") is the laziest template for that move, so a Sage piece slides into using it as every section's beat. The catalog flags the monotony correctly. But "say Y plainly" everywhere flattens the reframe, and the reframe is the whole reason the piece is Sage.
+
+The fix is redistribution, not reduction. Every archetype carries more than one native sentence pattern in its file. Keep the move, vary how it lands. Sage's other patterns deliver a reframe with no antithesis: observation-then-implication ("A learner can read a word fine and still stumble past it in speech. Those are different skills."), naming-the-unnamed ("That feeling when you follow every word but cannot reply, that is the gap."), invitation-to-see ("Look at what happens just before the verb."). Reserve the actual "not X, it is Y" for the one place it lands hardest.
+
+The rule is two steps:
+
+1. Spot the device running as the default beat (the catalog).
+2. Before flattening, check the active archetype's Cadence risk line and its sentence-pattern list. If the device is that archetype's native move, redistribute the instances across the archetype's other patterns. Flatten to plain statement only where no pattern fits.
+
+A banlist reduces. A writer redistributes.
+
 ## Checklist
 
-- [ ] No negation reveal as the closing sentence; at most one in the piece.
-- [ ] No two consecutive paragraphs closing on the same rhythmic move.
-- [ ] Fragments used as punch, not as a recurring beat (one or two max).
-- [ ] No triad engineered so the third item is the punchline.
-- [ ] The ending carries forward; it does not echo the title.
-- [ ] Every "feels deep" sentence survives the delete-the-device test: a plain true point is underneath it.
-- [ ] Improvisation test passes: sentences sound thought aloud, not composed for effect.
+The one question behind every item: is each device here _earned by the content_, or is it the _default beat_? Earned stays. Default goes. None of these means "never use it."
+
+- [ ] Where I used a device (reversal, triad, fragment, anaphora, aphoristic close), did the content want it, or did I reach for the shape? Earned ones stay.
+- [ ] No single move is the default beat: two consecutive paragraphs do not close the same way.
+- [ ] If I close on a negation reveal or a callback to the title, it does something the plain version cannot. Otherwise the ending carries forward instead.
+- [ ] Fragments and triads sit where they land, not on a schedule; none invented only to make rhythm.
+- [ ] Every "feels deep" sentence survives the delete-the-device test: a plain, true point sits underneath.
+- [ ] Improvisation test: the sentences sound thought aloud, not composed for effect.
+- [ ] Opposite ditch checked: the prose is not so scrubbed of figures that it reads flat and over-careful. Some sentences are still allowed to land.
+- [ ] If a flagged device is the active archetype's native move (see its Cadence risk line), it was redistributed across that archetype's other sentence patterns, not reduced to plain statement.

@@ -45,25 +45,33 @@ Power untethered from responsibility curdles into manipulation, sorcery, and hub
 ## Sentence Patterns
 
 **Transformation:**
+
 > "Adjust the exposure and the whole mood of the image turns into something else."
 
 **Catalyst:**
+
 > "One move on the curve and the flat shot becomes the one you meant to take."
 
 **Underlying law:**
+
 > "Push contrast and shadow together and they make the depth the scene never had."
 
 **Making it real:**
+
 > "This is the edit where the picture in your head becomes the file on the screen."
 
 ## Anti-Patterns
 
-| Magician Wouldn't Say | Magician Would Say |
-|-----------------------|-------------------|
-| "It's very complex" | "Watch it become something else" |
-| "After extensive analysis" | "Here's what we can change" |
-| "Incrementally improve" | "Turn it into what you intended" |
-| "Data processing" | "Raw turned into result" |
+| Magician Wouldn't Say      | Magician Would Say               |
+| -------------------------- | -------------------------------- |
+| "It's very complex"        | "Watch it become something else" |
+| "After extensive analysis" | "Here's what we can change"      |
+| "Incrementally improve"    | "Turn it into what you intended" |
+| "Data processing"          | "Raw turned into result"         |
+
+## Cadence risk
+
+The before-and-after turn collapses into two tells: the **negation reveal** (the reversal beat) and the **aphoristic mic-drop** landing on "the moment the change lands." Redistribute across the Magician's own patterns: transformation ("X turns into Y"), catalyst ("one move and the flat shot becomes the one you meant"), underlying law, making-it-real. Let the change land through cause-and-effect, not a snap abstraction.
 
 ## Language Domain
 

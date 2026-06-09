@@ -45,25 +45,33 @@ Courage hardens into arrogance and ruthlessness, treating every situation as a b
 ## Sentence Patterns
 
 **Challenge:**
+
 > "The old way isn't working. You already know this."
 
 **Call to action:**
+
 > "This is what it takes to change it."
 
 **Empowerment:**
+
 > "You are stronger than your last best run."
 
 **Victory:**
+
 > "Runners who push through the first wall find out what they're made of."
 
 ## Anti-Patterns
 
-| Hero Wouldn't Say | Hero Would Say |
-|-------------------|----------------|
-| "It's complicated" | "Here's what you're facing" |
-| "Maybe consider..." | "This is what works" |
-| "If you want..." | "When you're ready to act..." |
-| "Some organizations..." | "Organizations that lead..." |
+| Hero Wouldn't Say       | Hero Would Say                |
+| ----------------------- | ----------------------------- |
+| "It's complicated"      | "Here's what you're facing"   |
+| "Maybe consider..."     | "This is what works"          |
+| "If you want..."        | "When you're ready to act..." |
+| "Some organizations..." | "Organizations that lead..."  |
+
+## Cadence risk
+
+The rally collapses into **anaphora stacking** ("This is what it takes. This is what works.") and the **triad with the twist**, a chant rhythm the content rarely earns. Redistribute across the Hero's other patterns: challenge, a single call to action, empowerment. Repeat an opener only when the items are genuinely parallel in the argument.
 
 ## Language Domain
 

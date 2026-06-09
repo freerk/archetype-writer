@@ -79,6 +79,8 @@ Before writing, read the relevant archetype file from `references/archetypes/<na
 
 Follow these closely. The sentence patterns, anti-patterns, and **Language Domain** are the most actionable parts: use the patterns as templates, check your output against the anti-patterns table, and verify every noun, verb, and metaphor comes from the archetype's native vocabulary, not from the product's own terminology or from another archetype's domain.
 
+Some files also carry a **Cadence risk** note, present only where the archetype has a high-risk signature device. It names the cadence tell that move collapses into and the patterns to redistribute across, and it pairs with the redistribution rule in `references/cadence.md`. Read it during the refine pass, not the draft.
+
 ---
 
 ## Channel routing
@@ -115,6 +117,8 @@ This sets how hard the text is to read. It applies across all channels and arche
 `[Archetype: how to think] + [Channel: where it lives] + [Voice/brand guide: what not to say] + [CEFR: the reader's ceiling] = output`
 
 This is the layering rule from _Archetype layering_ above, completed with the channel and the reading-level ceiling. Apply in that order: archetype and channel shape the writing, the voice/brand guide filters wording, and CEFR is applied **last, as a ceiling** that caps how difficult any of it is allowed to get. It lowers difficulty; it never adds it.
+
+Cadence is the fourth filter but applies differently: not a wording layer in this stack but a rhythm pass over the refined draft. It does not change which words are allowed (CEFR) or which stance they carry (the archetype); it checks the shape of the result. See _Cadence_ below.
 
 ### When CEFR conflicts with an archetype's native vocabulary
 
@@ -159,7 +163,7 @@ This is the third axis. The archetype sets stance and vocabulary; CEFR sets read
 
 The failure mode: a model reaches for a remembered "this sounds insightful" cadence and stamps it on whether or not the sentence earns it. **Predictability is the tell, not the device.** Antithesis, the rule of three, anaphora, the punchy fragment are all fine until one becomes the default beat, and the sameness reads as machine-made.
 
-Always read `references/cadence.md` before refining prose, and apply it on every piece, including when the writing already passes the archetype and CEFR checks. It carries the catalog of six tells (the negation reveal, the triad with the twist, anaphora stacking, the fragment beat, the aphoristic mic-drop, the callback bow), each with its fix and a budget, plus the delete-the-device test for telling a real point from filler, the two rules for rhythm that isn't borrowed, and a worked before/after. This summary only names them; the reference does the work.
+Always read `references/cadence.md` before refining prose, and apply it on every piece, including when the writing already passes the archetype and CEFR checks. It carries the catalog of six tells (the negation reveal, the triad with the twist, anaphora stacking, the fragment beat, the aphoristic mic-drop, the callback bow), each with its fix and a budget, plus the delete-the-device test for telling a real point from filler, the two rules for rhythm that isn't borrowed, and a worked before/after. Two parts carry the most weight and are the easiest to skip: the **redistribution rule** for when a flagged tell is the active archetype's own signature move (vary it across that archetype's other sentence patterns instead of flattening it to plain statement), and the **opposite-ditch** warning that scrubbing every figure to zero is itself a tell. When a tell is the archetype's native move, check that archetype's Cadence risk line, if it has one, before changing the device. This summary only names them; the reference does the work.
 
 Cadence is most active in Phase 2 (Refine), where you spend the devices down to their budgets.
 

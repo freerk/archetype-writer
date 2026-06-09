@@ -45,26 +45,34 @@ The Sage's pursuit of truth can curdle into dogmatism and pedantry, correcting a
 ## Sentence Patterns
 
 **Observation then implication:**
+
 > "A learner can recognize a word in reading and still stumble past it in conversation. Those are different skills."
 
 **Naming the unnamed:**
+
 > "That feeling when you understand everything being said but cannot form a reply, that is the gap worth closing first."
 
 **Reframe:**
+
 > "This isn't about learning more words. It's about noticing the patterns in what you already use."
 
 **Invitation to see:**
+
 > "Look at what happens when a learner pauses just before the verb."
 
 ## Anti-Patterns
 
-| Sage Wouldn't Say | Sage Would Say |
-|-------------------|----------------|
-| "Revolutionary new approach" | "A different way to see" |
-| "You need to..." | "Consider what happens when..." |
-| "The problem is..." | "Here's what's often invisible..." |
-| "We discovered..." | "What emerges is..." |
-| "Best practice" | "What tends to work" |
+| Sage Wouldn't Say            | Sage Would Say                     |
+| ---------------------------- | ---------------------------------- |
+| "Revolutionary new approach" | "A different way to see"           |
+| "You need to..."             | "Consider what happens when..."    |
+| "The problem is..."          | "Here's what's often invisible..." |
+| "We discovered..."           | "What emerges is..."               |
+| "Best practice"              | "What tends to work"               |
+
+## Cadence risk
+
+The reframe collapses into the **negation reveal** ("not X, it's Y"), the catalog's highest-risk tell, run as the default section beat. Redistribute rather than flatten: observation-then-implication, naming-the-unnamed, invitation-to-see all deliver the reframe without antithesis. Reserve the negation reveal for the single place it lands hardest.
 
 ## Language Domain
 

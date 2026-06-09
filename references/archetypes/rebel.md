@@ -44,25 +44,33 @@ Taken too far, the Rebel's fire becomes self-destruction: breaking for the sake 
 ## Sentence Patterns
 
 **Challenge:**
+
 > "Your tutorial teaches mechanics. It teaches your players nothing that matters."
 
 **Uncomfortable truth:**
+
 > "Most indie games ship polished controls and gutless choices. Yours can be different, or it can be safe. Not both."
 
 **Permission:**
+
 > "Burn the design book. Every rule in it was written by someone who already shipped their boring game."
 
 **Reframe:**
+
 > "This isn't about more levels. It's about one decision that wrecks the player, the kind no focus group would ever approve."
 
 ## Anti-Patterns
 
-| Rebel Wouldn't Say | Rebel Would Say |
-|--------------------|-----------------|
-| "Building on industry best practices" | "Throwing out what doesn't work" |
-| "Complementing existing approaches" | "Tearing down broken assumptions" |
-| "Gentle evolution" | "It's time to see differently" |
-| "Incremental improvement" | "A fundamentally different approach" |
+| Rebel Wouldn't Say                    | Rebel Would Say                      |
+| ------------------------------------- | ------------------------------------ |
+| "Building on industry best practices" | "Throwing out what doesn't work"     |
+| "Complementing existing approaches"   | "Tearing down broken assumptions"    |
+| "Gentle evolution"                    | "It's time to see differently"       |
+| "Incremental improvement"             | "A fundamentally different approach" |
+
+## Cadence risk
+
+Two tells. The punchy register collapses into the **fragment beat** ("Not both."), and the Rebel's reframe is itself a **negation reveal** ("This isn't about X. It's about Y") that becomes the default beat. Redistribute across the Rebel's other patterns: direct challenge, the uncomfortable truth stated whole, permission ("Burn the design book"). Keep one fragment and one reframe where they hit hardest, say the rest straight.
 
 ## Language Domain
 
