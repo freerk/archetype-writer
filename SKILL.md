@@ -28,7 +28,7 @@ Write brand-voiced text using Jungian archetype personas, adapted for different 
 | **Caregiver** | Warm steadiness, protection          | Privacy/ethics, onboarding, trust-building                          |
 | **Hero**      | Bold courage, determination          | Launching initiatives, competitive positioning, calls to action     |
 | **Rebel**     | Provocative challenge, liberation    | Differentiation, challenging assumptions, frustrated buyers         |
-| **Magician**  | Visionary transformation, revelation | Paradigm shifts, "aha" moments, new ways of seeing                  |
+| **Magician**  | Visionary transformation             | Paradigm shifts, before-and-after change, turning one state into another |
 | **Innocent**  | Simple clarity, hope                 | Onboarding, simplifying complexity, reducing anxiety                |
 | **Everyman**  | Belonging, practicality              | Community building, accessible content, diverse audiences           |
 | **Jester**    | Playful wit, perspective             | Breaking tension, social media, memorable content                   |
@@ -67,15 +67,19 @@ If the user has a voice guide or brand constraints, apply those as a filter afte
 
 Before writing, read the relevant archetype file from `references/archetypes/<name>.md`. Each file contains:
 
-1. Core Identity and Motivation
-2. Voice Characteristics (tone, rhythm, stance)
-3. What the archetype does and doesn't do
-4. Sentence patterns to mimic
-5. Anti-patterns table (what NOT to say)
-6. **Language Domain** (conceptual world, how this archetype refers to the act of communication, metaphor stance, native vocabulary, and forbidden vocabulary)
-7. Energy (what reading should feel like)
-8. When to use
-9. Combines well with
+1. Core Identity
+2. Motivation
+3. Core Fear
+4. Voice Characteristics (tone, rhythm, stance)
+5. What the archetype does and doesn't do
+6. Shadow
+7. Sentence patterns to mimic
+8. Anti-patterns table (what NOT to say)
+9. Cadence risk (only in files with a high-risk signature device)
+10. **Language Domain** (conceptual world, how this archetype refers to the act of communication, metaphor stance, native vocabulary, and forbidden vocabulary)
+11. Energy (what reading should feel like)
+12. When to use
+13. Combines well with
 
 Follow these closely. The sentence patterns, anti-patterns, and **Language Domain** are the most actionable parts: use the patterns as templates, check your output against the anti-patterns table, and verify every noun, verb, and metaphor comes from the archetype's native vocabulary, not from the product's own terminology or from another archetype's domain.
 
@@ -89,14 +93,18 @@ Read the appropriate reference file based on the channel:
 
 | Channel  | Reference file                   | When to read                                                                                                                               |
 | -------- | -------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
-| Website  | `references/website-channel.md`  | Website pages, landing pages, long-form marketing                                                                                          |
-| LinkedIn | `references/linkedin-channel.md` | LinkedIn posts, extracting posts from existing content                                                                                     |
-| UI       | `references/ui-channel.md`       | Tooltips, empty states, error messages, onboarding, buttons, notifications                                                                 |
-| Micro    | `references/micro-channel.md`    | Contextual reflections, ambient lines, in-product observations, short notification bodies (1-2 sentences generated dynamically per moment) |
+| Website  | `references/channels/website.md`  | Website pages, landing pages, long-form marketing                                                                                          |
+| LinkedIn | `references/channels/linkedin.md` | LinkedIn posts, extracting posts from existing content                                                                                     |
+| UI       | `references/channels/ui.md`       | Tooltips, empty states, error messages, onboarding, buttons, notifications                                                                 |
+| Micro    | `references/channels/micro.md`    | Contextual reflections, ambient lines, in-product observations, short notification bodies (1-2 sentences generated dynamically per moment) |
+| Email    | `references/channels/email.md`    | Announcements, lifecycle and onboarding mail, newsletters, outreach                                                                        |
+| Headline | `references/channels/headline.md` | Titles, web H1/hero, LinkedIn first lines, email subject lines: any single line whose job is to earn the next. Write last; layers on top of another channel |
 
 **Short UI or micro text** (tooltips, error messages, button labels, contextual reflections, ambient lines): write directly, showing 2-3 options in the chosen archetype voice.
 
-**Longer content** (website pages, LinkedIn posts from source material): propose an edit plan before executing. Present the plan, wait for approval, then execute.
+**Longer content** (website pages, LinkedIn posts from source material, email campaigns): propose an edit plan before executing. Present the plan, wait for approval, then execute.
+
+**Headlines** (titles, hero lines, email subject lines): write last, after the body exists, then offer 3-5 options each pointing at a different moment in the finished piece. See `references/channels/headline.md`.
 
 ---
 
@@ -118,7 +126,7 @@ This sets how hard the text is to read. It applies across all channels and arche
 
 This is the layering rule from _Archetype layering_ above, completed with the channel and the reading-level ceiling. Apply in that order: archetype and channel shape the writing, the voice/brand guide filters wording, and CEFR is applied **last, as a ceiling** that caps how difficult any of it is allowed to get. It lowers difficulty; it never adds it.
 
-Cadence is the fourth filter but applies differently: not a wording layer in this stack but a rhythm pass over the refined draft. It does not change which words are allowed (CEFR) or which stance they carry (the archetype); it checks the shape of the result. See _Cadence_ below.
+Cadence is not a box in this stack but a pass applied after it: a rhythm check over the refined draft. It does not change which words are allowed (CEFR) or which stance they carry (the archetype); it checks the shape of the result. See _Cadence_ below.
 
 ### When CEFR conflicts with an archetype's native vocabulary
 
@@ -232,7 +240,7 @@ After writing or refining, verify:
 - [ ] Channel constraints are met (length, structure, format)
 - [ ] Opening creates tension, not explanation
 - [ ] Rhythm varies (not all sections the same length)
-- [ ] Cadence passes `references/cadence.md`: no machine-made rhythm tells (negation reveal as the closer, every section ending on the same move, fragments as a recurring beat, an engineered triad, a callback bow); every "feels deep" sentence survives the delete-the-device test
+- [ ] Cadence passes `references/cadence.md`: no machine-made rhythm tells (the full catalog of six: the negation reveal as the closer, the triad with the twist, anaphora stacking, the fragment beat as a recurring beat, the aphoristic mic-drop, the callback bow); every "feels deep" sentence survives the delete-the-device test
 - [ ] At least one provocative true statement is visible (for marketing/website content)
 - [ ] No telegram-style compression: sentences flow into each other
 - [ ] Read-aloud test passes: has energy AND sounds like natural speech

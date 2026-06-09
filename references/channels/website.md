@@ -49,6 +49,8 @@ DECISION: Keep the scenario (more engaging), cut the feature list.
 - Before: "This app gives readers a smarter way to discover books, using reading history and preferences to surface titles they'll actually finish."
 - After: "Most reading lists grow. Most books on them never get opened."
 
+The hero line is a headline. Write it last, after the rest of the page exists, so it can point at the sharpest thing the page earned. See `references/channels/headline.md`.
+
 **Middle sections:** Keep 3-4 sections that build tension toward insight. Cut the rest. For each section ask: Does this move the reader forward or just inform them? Could this live on a linked page?
 
 **Closing:** End with momentum, not summary.

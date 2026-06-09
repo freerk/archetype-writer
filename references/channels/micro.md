@@ -4,7 +4,7 @@ Use this reference when writing very short user-visible text that appears dynami
 
 Examples of micro copy: toast and snackbar messages, notification bodies, status lines, ambient inline text under a heading, real-time activity feed entries, modal subtitles, empty-state secondary lines, and any short message generated per moment based on context or data.
 
-This channel is distinct from `ui-channel`. UI copy is static labels authored once (tooltips, buttons, error messages). Micro copy is generated for a specific moment, often paired with live data, and the moment passes if the reader stops to parse it. Different intent, related craft.
+This channel is distinct from the UI channel (`references/channels/ui.md`). UI copy is static labels authored once (tooltips, buttons, error messages). Micro copy is generated for a specific moment, often paired with live data, and the moment passes if the reader stops to parse it. Different intent, related craft.
 
 ## Where the voice lives
 
@@ -85,7 +85,7 @@ Rendered (with realistic value for {placeholder}):
 ## Common mistakes
 
 - **Two ideas in one breath.** Forcing two thoughts into 25 words usually dilutes both. Pick one.
-- **Marketing register.** Micro is not website copy compressed. It is short-form copy native to the moment. Headlines belong on a hero section, not in this channel.
+- **Marketing register.** Micro is not website copy compressed. It is short-form copy native to the moment. Headlines and titles have their own craft (write last, open a gap); see `references/channels/headline.md`. They do not belong in this channel.
 - **Over-compression.** Sentences under 8 words stacked back-to-back read as a system, not a person. Restore at least one transition word.
 - **Borrowed metaphors.** Verify every metaphor against the active archetype's Language Domain. A Sage sentence should not pick up Magician transformation imagery.
 - **Performing the voice.** Trying too hard to "sound like the archetype" produces parody. Aim for recognisable, not dialled-up.

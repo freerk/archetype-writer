@@ -136,6 +136,8 @@ The rule is two steps:
 1. Spot the device running as the default beat (the catalog).
 2. Before flattening, check the active archetype's Cadence risk line and its sentence-pattern list. If the device is that archetype's native move, redistribute the instances across the archetype's other patterns. Flatten to plain statement only where no pattern fits.
 
+If the archetype has no Cadence risk line, do not assume the device is generic. Check the archetype's own sentence patterns directly: if the flagged device is clearly one of them, redistribute across the others exactly as above. Only when the device matches none of the archetype's patterns is it generic decoration, and only then does the catalog's plain-statement fix apply. Do not stretch to call a device "native" in order to keep it. If you are reaching, it is generic, and the budget applies.
+
 A banlist reduces. A writer redistributes.
 
 ## Checklist

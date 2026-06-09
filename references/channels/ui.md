@@ -2,7 +2,7 @@
 
 Use this reference when writing tooltips, empty states, error messages, onboarding copy, button labels, notifications, confirmation dialogs, or any in-product text that lives as a static label in the interface.
 
-This channel is distinct from `micro-channel`. UI copy is authored once and stays put. Micro copy is generated for a specific moment, often per request, often paired with live data. Different intent, related craft.
+This channel is distinct from the micro channel (`references/channels/micro.md`). UI copy is authored once and stays put. Micro copy is generated for a specific moment, often per request, often paired with live data. Different intent, related craft.
 
 ## Where the voice lives
 

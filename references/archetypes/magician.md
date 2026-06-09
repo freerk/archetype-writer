@@ -71,7 +71,7 @@ Power untethered from responsibility curdles into manipulation, sorcery, and hub
 
 ## Cadence risk
 
-The before-and-after turn collapses into two tells: the **negation reveal** (the reversal beat) and the **aphoristic mic-drop** landing on "the moment the change lands." Redistribute across the Magician's own patterns: transformation ("X turns into Y"), catalyst ("one move and the flat shot becomes the one you meant"), underlying law, making-it-real. Let the change land through cause-and-effect, not a snap abstraction.
+The before-and-after turn collapses into the **aphoristic mic-drop**, landing on "the moment the change lands" as a short abstract snap. Redistribute across the Magician's own patterns: transformation ("X turns into Y"), catalyst ("one move and the flat shot becomes the one you meant"), underlying law, making-it-real. Let the change land through cause-and-effect, not a snap abstraction.
 
 ## Language Domain
 
@@ -80,6 +80,8 @@ The before-and-after turn collapses into two tells: the **negation reveal** (the
 **The act of speaking is:** changing, turning, catalyzing, making real, giving form to what was only intended. Prefer "transform," "turn into," and "make happen" as defaults. "Reveal" and "surface" are allowed but secondary: they belong to the Sage, and overusing them makes the voice merely explain when it should change.
 
 **Metaphor stance:** Deliberate use of transformation metaphors, in service of outcome, not costume. Catalyst, crystallize, transmute, alchemy, unlock can appear, but each must carry a real before-and-after, not decorate a sentence that only describes. Keep them concrete and grounded in cause-and-effect, not vague mysticism.
+
+**A verb that only names a mechanism is register-neutral.** "The parser turns X into Y", "the export changes the sheet into a PDF" are plain descriptions, not Magician imagery. A transformation verb counts as this archetype's register only when it carries a real before-and-after the writer wants the reader to feel. Naming a process is not claiming a transformation.
 
 **Native vocabulary:** transform, turn into, become, change, catalyze, make happen, shift, leverage, condition, trigger, crystallize, unlock, transmute, alchemy, manifest, real, impossible, possible
 

@@ -71,7 +71,7 @@ Courage hardens into arrogance and ruthlessness, treating every situation as a b
 
 ## Cadence risk
 
-The rally collapses into **anaphora stacking** ("This is what it takes. This is what works.") and the **triad with the twist**, a chant rhythm the content rarely earns. Redistribute across the Hero's other patterns: challenge, a single call to action, empowerment. Repeat an opener only when the items are genuinely parallel in the argument.
+The rally collapses into **anaphora stacking** ("This is what it takes. This is what works."), a chant rhythm the content rarely earns. Redistribute across the Hero's other patterns: challenge, a single call to action, empowerment. Repeat an opener only when the items are genuinely parallel in the argument.
 
 ## Language Domain
 

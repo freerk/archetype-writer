@@ -36,6 +36,8 @@ Mark lines that create a reaction: "I never thought of it that way," "That's unc
 
 **Step 3: Rebuild for LinkedIn.** Give it a hook that stops the scroll, tension that holds attention, a landing that reframes.
 
+The first line is the post's headline: it carries the whole scroll-stopping job and has to survive the feed's truncation. Write it last, after the post exists, and open a gap. See `references/channels/headline.md`.
+
 ## Post structures
 
 ### The Contrast Post
