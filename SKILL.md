@@ -5,7 +5,7 @@ description: "MANDATORY for writing or rewriting any human-readable prose, not c
 
 # Archetype Writer
 
-Write brand-voiced text using Jungian archetype personas, adapted for different channels. Each archetype shapes tone, rhythm, word choice, and intent. Editorial craft principles ensure the output is compelling, not just correct.
+Write brand-voiced text using Jungian archetype personas, adapted for different channels. Three axes shape every piece: the **archetype** sets stance and vocabulary, the **CEFR level** sets reading difficulty, and **cadence** sets rhythm. Editorial craft principles ensure the output is compelling, not just correct.
 
 ## Quick start
 
@@ -13,7 +13,8 @@ Write brand-voiced text using Jungian archetype personas, adapted for different 
 2. **Read the archetype file** from `references/archetypes/<name>.md`
 3. **Pick the channel** and read its reference file
 4. **Read `references/language-level.md` and apply the reading level** (CEFR, default B2). Do this for every piece, including the default: B2 is not self-evident, and the band guide plus the structural-complexity checks apply at every level
-5. **Write or refine** using the archetype voice, reading level, and editorial craft baked in
+5. **Read `references/cadence.md` and check the rhythm** (the third axis). On every piece, hardest in the refine pass: hunt the machine-made cadence tells (borrowed meter, every section closing on the same move) and spend the rhetorical devices down to their budgets
+6. **Write or refine** using the archetype voice, reading level, cadence, and editorial craft baked in
 
 ---
 
@@ -152,6 +153,18 @@ For per-band detail, the archetype-conflict worked examples, and before/after re
 
 ---
 
+## Cadence (the rhythm layer)
+
+This is the third axis. The archetype sets stance and vocabulary; CEFR sets reading difficulty; cadence sets **rhythm**. It catches the most common reason prose reads as machine-written, and that reason lives below the other two checks: not a wrong word (CEFR passes it) and not an off stance (the archetype passes it), but the **shape** of the sentence, its meter and the move each paragraph closes on.
+
+The failure mode: a model reaches for a remembered "this sounds insightful" cadence and stamps it on whether or not the sentence earns it. **Predictability is the tell, not the device.** Antithesis, the rule of three, anaphora, the punchy fragment are all fine until one becomes the default beat, and the sameness reads as machine-made.
+
+Always read `references/cadence.md` before refining prose, and apply it on every piece, including when the writing already passes the archetype and CEFR checks. It carries the catalog of six tells (the negation reveal, the triad with the twist, anaphora stacking, the fragment beat, the aphoristic mic-drop, the callback bow), each with its fix and a budget, plus the delete-the-device test for telling a real point from filler, the two rules for rhythm that isn't borrowed, and a worked before/after. This summary only names them; the reference does the work.
+
+Cadence is most active in Phase 2 (Refine), where you spend the devices down to their budgets.
+
+---
+
 ## Editorial craft principles
 
 These principles apply across all channels. They separate correct copy from compelling copy.
@@ -171,7 +184,7 @@ Use these when refining any content:
 - **CUT:** Remove sections that explain what other sections already imply. Cover a section with your hand: does the page still work? Then cut it.
 - **COMPRESS:** Turn 3 paragraphs into 3 sentences. Remove words, not connective tissue. Sentences should flow into each other, not sit like strangers.
 - **HOOK:** Rewrite openings to create tension before explanation. The reader should wonder before they understand.
-- **VARY:** Break uniform rhythm with deliberate contrast. If every section is 80-120 words, make one section 20 words. Then let the next breathe.
+- **VARY:** Break uniform rhythm with deliberate contrast. If every section is 80-120 words, make one section 20 words. Then let the next breathe. VARY handles section length; for the finer rhythm tells (borrowed meter, every section closing on the same move), apply `references/cadence.md`.
 - **EDGE:** Find the most provocative true statement and surface it. Edge is not hype. "If you're not ready to hear uncomfortable truths" has edge. "Revolutionary AI platform" is hype.
 - **DEFER:** Move deep explanation to linked pages. One sentence with a link beats three paragraphs inline.
 
@@ -215,6 +228,7 @@ After writing or refining, verify:
 - [ ] Channel constraints are met (length, structure, format)
 - [ ] Opening creates tension, not explanation
 - [ ] Rhythm varies (not all sections the same length)
+- [ ] Cadence passes `references/cadence.md`: no machine-made rhythm tells (negation reveal as the closer, every section ending on the same move, fragments as a recurring beat, an engineered triad, a callback bow); every "feels deep" sentence survives the delete-the-device test
 - [ ] At least one provocative true statement is visible (for marketing/website content)
 - [ ] No telegram-style compression: sentences flow into each other
 - [ ] Read-aloud test passes: has energy AND sounds like natural speech
